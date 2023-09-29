@@ -24,6 +24,28 @@
   color: white;
 }
 
+/* #app {
+  height: 100%;
+} */
+
+
+#question {
+  /* margin-top: 10%; */
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  
+}
+
+#resources {
+  margin-top: 5%;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  
+}
+
 .App-link {
   color: #61dafb;
 }

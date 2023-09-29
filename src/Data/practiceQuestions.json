@@ -1,0 +1,4959 @@
+{
+    "data": [
+        {
+            "questionPK": "bm42f1k",
+            "question": "如果你駕車時經過一片施工區域，應該怎麼做才對？",
+            "answer": "集中精神，小心駕駛即可。",
+            "questionImageUrl": null,
+            "choices": [
+                "減速，小心路上的工人。",
+                "鳴笛，引起周圍行人和車輛的注意。",
+                "集中精神，小心駕駛即可。",
+                "加速通過，以免影響工人施工。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-1-zh.html"
+        },
+        {
+            "questionPK": "0b0tn0c",
+            "question": "右轉彎時如果遇到自行車專用車道時應該如何處理？",
+            "answer": "先提前駛入自行車專用車道，然後再轉彎。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/question2.png",
+            "choices": [
+                "絕對不能駛入自行車專用車道。",
+                "轉彎前先停車，確認安全后再駛入自行車專用車道。",
+                "先提前駛入自行車專用車道，然後再轉彎。",
+                "先通過鳴笛來提醒路口附近的行人注意，然後再轉彎。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-2-zh.html"
+        },
+        {
+            "questionPK": "3ko5q8x",
+            "question": "如果路口的信號燈失靈了，作為司機應該如何應對？",
+            "answer": "首先要在到達路口時停車，確認安全后再前進。",
+            "questionImageUrl": null,
+            "choices": [
+                "首先要在到達路口時停車，確認安全后再前進。",
+                "如果你的車先到達路口，那麼就可以優先通過。",
+                "減速即可，不用停車。",
+                "繞路行駛，避開該路口。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-3-zh.html"
+        },
+        {
+            "questionPK": "7337j0s",
+            "question": "你在路上正常行駛，此時發現前方有位行人正在穿越車道，不過該行人并沒有走人行橫道。你該怎麼辦？",
+            "answer": "停車等待，讓行人先過。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/pedestrian_cross_road.jpg",
+            "choices": [
+                "鳴笛，警告行人并繼續行駛。",
+                "從行人旁邊小心駛過。",
+                "變換車道，加速從行人前面通過。",
+                "停車等待，讓行人先過。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-4-zh.html"
+        },
+        {
+            "questionPK": "rhplzyi",
+            "question": "什麼情況下才應該繫好安全帶？",
+            "answer": "不論何時，只要車上有安全帶就要繫好它。",
+            "questionImageUrl": null,
+            "choices": [
+                "路面殘破，車輛顛簸的時候。",
+                "僅在所駕駛的車輛為5萬美元以上的豪華車輛時。",
+                "不論何時，只要車上有安全帶就要繫好它。",
+                "僅在附近有警車巡邏的時候。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-5-zh.html"
+        },
+        {
+            "questionPK": "zx9e0rp",
+            "question": "什麼情況下，你需要和大型卡車保持足夠大的距離？",
+            "answer": "當發現卡車即將停車時。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/distance_truck.jpg",
+            "choices": [
+                "當發現有其它車輛想要切換車道時。",
+                "當發現卡車即將停車時。",
+                "當發現旁邊車道的車輛想要超車時。",
+                "當發現旁邊車道的車輛想要停車時。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-6-zh.html"
+        },
+        {
+            "questionPK": "vs3et0h",
+            "question": "雨天時路面濕滑，這種情況下駕駛者應該注意什麼？：",
+            "answer": "盡量不要急轉彎和急剎車。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/wet_road.jpg",
+            "choices": [
+                "不時的鳴笛提醒路旁的行人小心。",
+                "盡量不要急轉彎和急剎車。",
+                "注意更換老舊的輪胎，避免抓地力不夠。",
+                "不要和前車保持太遠的距離。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-7-zh.html"
+        },
+        {
+            "questionPK": "mbvb4gf",
+            "question": "下列哪種情況容易引發車禍？",
+            "answer": "個別車輛的速度太快或太慢。",
+            "questionImageUrl": null,
+            "choices": [
+                "路上的車輛都以相近的速度行駛。",
+                "快車道上的車輛車速較快。",
+                "個別車輛的速度太快或太慢。",
+                "車流中有多輛大型卡車。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-8-zh.html"
+        },
+        {
+            "questionPK": "865m586",
+            "question": "你的車最初停靠在路旁，如果想要開車離開，你應該注意什麼？",
+            "answer": "尋找合適的時機和空間，以便自己可以用合適的速度匯入車流。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/parking_roadside.jpg",
+            "choices": [
+                "啟動后的最初200米時不要開的太快。",
+                "尋找合適的時機和空間，以便自己可以用合適的速度匯入車流。",
+                "一定要鳴笛，以提醒其它車輛注意。",
+                "將手伸出車窗揮動，以提醒其它車輛注意。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-9-zh.html"
+        },
+        {
+            "questionPK": "6oz2oga",
+            "question": "如果你在超車後想要回到原來的車道，如何判定切換車道的操作是安全的？",
+            "answer": "觀察后視鏡，如果在鏡中可以完整看到被超越的車輛的兩盞前燈時就表明安全了。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/rear_mirror-1.jpg",
+            "choices": [
+                "觀察側鏡，如果在鏡中看不到被超越的車輛時就表明安全了。",
+                "觀察后視鏡，如果在鏡中可以完整看到被超越的車輛的兩盞前燈時就表明安全了。",
+                "只要在切換車道時打出轉向燈就是安全的。",
+                "只要在切換車道時加速就是安全的。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-10-zh.html"
+        },
+        {
+            "questionPK": "qzmbq60",
+            "question": "下列何種情況下，你應該關閉你的遠光燈或減弱你的車頭燈：",
+            "answer": "你跟在一輛車的後面，且與其相距不超過300 feet（約91m）",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/high_beam.png",
+            "choices": [
+                "你跟在一輛車的後面，且與其相距不超過300 feet（約91m）",
+                "一輛車跟在你的後面，且與你的車輛相距不超過300 feet（約91m）",
+                "你旁邊的車道上有其它車輛時。",
+                "在市區內的公路上行駛時。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-11-zh.html"
+        },
+        {
+            "questionPK": "02mxiyn",
+            "question": "如果在路上看到如下標誌，應該怎麼辦？",
+            "answer": "前方可能有工人正在施工，注意避讓。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/construction_sign.jpg",
+            "choices": [
+                "立刻減速，因為前方沒有路了。",
+                "前方可能有工人正在施工，注意避讓。",
+                "保持車速不變，但要切換到其它的車道上。",
+                "立刻停車，立刻 U 型調頭離開當前路段。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-12-zh.html"
+        },
+        {
+            "questionPK": "q62umdc",
+            "question": "什麼情況下你才可以在住宅區的車道上調頭？",
+            "answer": "只要附近沒有其它車輛時就可以調頭",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/residential_area.jpg",
+            "choices": [
+                "任何時候都不能在住宅區調頭。",
+                "只能在單行道上調頭。",
+                "只要附近沒有其它車輛時就可以調頭",
+                "只能在路面上畫有兩條黃色實線時才可以調頭。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-13-zh.html"
+        },
+        {
+            "questionPK": "uzt1m7w",
+            "question": "什麼情況下你才需要同意接受血液內的酒精含量測試？",
+            "answer": "任何時候，只要你身在加州境內。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/bac-test.jpg",
+            "choices": [
+                "當你確實喝過酒時。",
+                "任何時候，只要你身在加州境內。",
+                "在你捲入交通事故當中時。",
+                "夜間遇到警察路口設卡檢查時。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-14-zh.html"
+        },
+        {
+            "questionPK": "qxhw9jj",
+            "question": "如圖所示，當帶有箭頭的綠色信號燈亮起時，你應該：",
+            "answer": "根據信號燈的指示前進，但如果有其它車輛或行人擋道，你應該讓行。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/traffic_green_light_arrow.jpg",
+            "choices": [
+                "根據信號燈的指示前進，但如果有其它車輛或行人擋道，你應該讓行。",
+                "根據信號燈的指示前進，但只需避讓擋住去路的行人。",
+                "先不要前進，等4秒鐘之後再走。",
+                "不能前進，這個信號燈是專為行人提供的。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-15-zh.html"
+        },
+        {
+            "questionPK": "rgkt6ed",
+            "question": "在光線昏暗的路段駕駛時應該注意什麼？",
+            "answer": "降低車速，這樣才能確保在車燈照明的範圍內及時停車。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/dark_area.jpg",
+            "choices": [
+                "打開緊急停車燈，以便其他司機能看到你。",
+                "降低車速，這樣才能確保在車燈照明的範圍內及時停車。",
+                "開啟遠光燈以便看清前方的路況。",
+                "打開車內的照明燈，以便其他司機能看到你。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-16-zh.html"
+        },
+        {
+            "questionPK": "oddk75s",
+            "question": "如果你在一條只能右轉彎的車道上看到路面上劃有一個黃色箭頭，這表示什麼？",
+            "answer": "提醒你注意觀察并遵守交通信號燈。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/right_turn_yellow_arrow.jpg",
+            "choices": [
+                "提醒你注意觀察并遵守交通信號燈。",
+                "提醒你在轉彎時注意瞭望行人。",
+                "提醒你這條車道已經封閉，不能轉彎。",
+                "提醒你前方正在施工，轉彎后要盡快繞行。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-17-zh.html"
+        },
+        {
+            "questionPK": "yw8hhes",
+            "question": "如何為緊急車輛讓路？",
+            "answer": "盡可能將車靠近道路的右側并停車。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/emergency_car.jpg",
+            "choices": [
+                "盡可能將車靠近道路的右側并停車。",
+                "加速前進，在最近的路口轉彎離開當前車道。",
+                "立即原地停車。",
+                "立即減速，直到緊急車輛通過。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-18-zh.html"
+        },
+        {
+            "questionPK": "xysxrv9",
+            "question": "在轉彎時為什麼要格外小心摩托車？",
+            "answer": "因為它們體積小且難以發現。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/motorcycle-crash.jpg",
+            "choices": [
+                "因為它們速度太快。",
+                "因為它們享有優先轉彎的特權。",
+                "因為它們體積小且難以發現。",
+                "因為它們經常切換車道。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-19-zh.html"
+        },
+        {
+            "questionPK": "848aa86",
+            "question": "當你開車接近鐵路道口時發現安全柵欄正在緩緩落下，而此時火車距離道口還很遠。正確的做法是：",
+            "answer": "停車等候，絕不能穿越柵欄。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/railroad_crossing.jpg",
+            "choices": [
+                "加速前進，在柵欄落下前通過路口。",
+                "停車等候，絕不能穿越柵欄。",
+                "左右瞭望，確認安全的情況下可以衝過柵欄穿越鐵路。",
+                "很明顯是安全柵欄失靈了，應該聯繫工作人員修理。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-20-zh.html"
+        },
+        {
+            "questionPK": "rlvn1yd",
+            "question": "如果一名年滿21周歲的駕駛者被查出血液中的酒精濃度（BAC）達到 ____ 以上時，將面臨違法的指控。",
+            "answer": "0.08%",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/bac-test.jpg",
+            "choices": [
+                "0.08%",
+                "0.10%",
+                "0.05%",
+                "0.01%"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-21-zh.html"
+        },
+        {
+            "questionPK": "f2yjtg3",
+            "question": "下列地點中，哪一個可以允許你合法停車：",
+            "answer": "高速公路的路肩上（緊急情況下）",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/road_shoulder_parking.jpg",
+            "choices": [
+                "高速公路的路肩上（緊急情況下）",
+                "人行橫道上",
+                "學校球場上",
+                "任何公路的邊緣（僅限節假日）"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-22-zh.html"
+        },
+        {
+            "questionPK": "rk2eeiq",
+            "question": "轉彎時需要減速嗎？",
+            "answer": "是的，在進入彎道前最好減速。",
+            "questionImageUrl": null,
+            "choices": [
+                "是的，在進入彎道前最好減速。",
+                "是的，在進入彎道后最好減速。",
+                "是的，在轉彎的整個過程中都應該減速。",
+                "不是的，如果是高檔車就不需要這樣做。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-23-zh.html"
+        },
+        {
+            "questionPK": "aceahce",
+            "question": "根據加州的法律，如果你遭遇車禍且有人受傷，則必須向下列中的哪一方提交有關車禍的書面報告？",
+            "answer": "加州機動車輛管理局 (DMV)",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/traffic_accident_injury.jpg",
+            "choices": [
+                "管轄事發路段的警察局",
+                "加州公路巡邏隊 (CHP)",
+                "加州機動車輛管理局 (DMV)",
+                "你的保險公司"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-24-zh.html"
+        },
+        {
+            "questionPK": "okrkkos",
+            "question": "當你在接近路口時發現信號燈為黃色且不停的閃爍，該如何處理？",
+            "answer": "減速并倍加小心的通過路口。",
+            "questionImageUrl": null,
+            "choices": [
+                "加速通過路口。",
+                "立刻停車，確認沒有危險后再前進。",
+                "減速并倍加小心的通過路口。",
+                "該路口已經封閉，必須繞行。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-25-zh.html"
+        },
+        {
+            "questionPK": "9762fvf",
+            "question": "在下列何種情況下，你應該與前面的車輛保持更大的距離：",
+            "answer": "後面有一輛車緊跟著你。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/traffic_distance_too_close.jpg",
+            "choices": [
+                "前面的車是小型機動車。",
+                "後面有一輛車緊跟著你。",
+                "前面的車行駛的很慢。",
+                "前面的車是大型貨車。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-26-zh.html"
+        },
+        {
+            "questionPK": "3v6pqt6",
+            "question": "什麼情況下你會被罰款1000美元并處以6個月的監禁？",
+            "answer": "將動物遺棄在公路上。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/abandoned-animal.jpg",
+            "choices": [
+                "在道路中央進行 U 型轉彎。",
+                "將動物遺棄在公路上。",
+                "在自行車專用車道上停車。",
+                "超速駕駛。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-27-zh.html"
+        },
+        {
+            "questionPK": "sfzvpqn",
+            "question": "根據加州法律規定，下列哪種情況下你不能將6歲以下（含6歲）兒童留在汽車內：",
+            "answer": "車鑰匙沒有取下來。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/children_in_car.jpg",
+            "choices": [
+                "除了該名兒童外，車內還有其他12歲以上的哥哥或姐姐。",
+                "車鑰匙沒有取下來。",
+                "車外氣候寒冷且所有車窗都處於關閉狀態。",
+                "夜間的停車場上。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-28-zh.html"
+        },
+        {
+            "questionPK": "4hnf4z0",
+            "question": "如圖所示，這個標誌的意思是：",
+            "answer": "單行道車流靠右行駛",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/65ab8816ee399dab8d356b478fe8fca0.png",
+            "choices": [
+                "單行道車流靠右行駛",
+                "單車道靠右行駛",
+                "所有車輛必須在前方右轉",
+                "所有車輛必須在前方左轉"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-29-zh.html"
+        },
+        {
+            "questionPK": "lmelxq0",
+            "question": "當遭遇大霧或沙塵天氣時，應該如何應對？",
+            "answer": "最好暫時不要開車了，等天氣好轉再說。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/dusty_fog.jpg",
+            "choices": [
+                "最好暫時不要開車了，等天氣好轉再說。",
+                "開車的速度應該快一點，以避免後面的車撞上來。",
+                "使用遠光燈以更好的看清前面的路況。",
+                "不時的鳴笛以提醒其他司機注意到你。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-30-zh.html"
+        },
+        {
+            "questionPK": "sa4v8j3",
+            "question": "如果一個鐵路道口有多條鐵軌，那麼在通過時應該注意什麼？",
+            "answer": "一定要左右看清楚，確認兩個方向都沒有火車時再通行。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/railway_crossing.jpg",
+            "choices": [
+                "一定要左右看清楚，確認兩個方向都沒有火車時再通行。",
+                "只要有一輛火車通過了你就可以走了。",
+                "如果別的車輛開始走了，那麼你也可以走了。",
+                "通過鐵路道口時要加速。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-31-zh.html"
+        },
+        {
+            "questionPK": "hl0wrki",
+            "question": "如圖所示，這個標誌的意思是：",
+            "answer": "分離的車道即将在前方匯合",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/zkf91.jpg",
+            "choices": [
+                "分離的車道即将在前方匯合",
+                "当前車道即将在前方分離",
+                "前方路上有障礙物",
+                "前方路上有信號燈"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-32-zh.html"
+        },
+        {
+            "questionPK": "j47iino",
+            "question": "你所處的路段在你前進的方向上兩條車道，而你目前位於左邊的車道；此時在你後面有一輛車開得很快且緊跟著你，出於安全考慮應該怎麼辦？",
+            "answer": "可能的話切換到右車道，讓後面的車超越你。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/traffic_distance_too_close.jpg",
+            "choices": [
+                "繼續留在左車道上，保持自己的速度。",
+                "不時踩一下剎車，警告一下後面的司機。",
+                "可能的話切換到右車道，讓後面的車超越你。",
+                "減慢車速，與前車保持更大的距離。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-33-zh.html"
+        },
+        {
+            "questionPK": "hux88bv",
+            "question": "路面上的黃色實線有什麼作用？",
+            "answer": "用於分隔雙向車道上相對行駛的車流。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/yellow-line.jpg",
+            "choices": [
+                "用於將一條單行道分隔為多條車道。",
+                "用於分隔雙向車道上相對行駛的車流。",
+                "用於分隔普通車道與合用車（車內有多名乘客）車道。",
+                "用於分隔自行車道和機動車道。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-34-zh.html"
+        },
+        {
+            "questionPK": "2ayqk3o",
+            "question": "你位於一條用於左轉彎的車道上，此時看到圖中的標誌，你應該怎麼做？",
+            "answer": "即便綠燈亮起，你也要禮讓其它車流或行人，確認安全后再轉彎。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/660ad3a0ac202a456eb02ab886168f05.jpeg",
+            "choices": [
+                "綠燈亮時才可以左轉。",
+                "即便綠燈亮起，你也要禮讓其它車流或行人，確認安全后再轉彎。",
+                "綠燈亮起時不能左轉。",
+                "綠燈亮起時不能右轉。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-35-zh.html"
+        },
+        {
+            "questionPK": "vko0zam",
+            "question": "下列哪種情況下，你應該反復踩剎車來讓剎車燈閃爍或者打開緊急信號燈（雙閃燈）？",
+            "answer": "你想要警告其他司機不遠處發生了交通事故。",
+            "questionImageUrl": null,
+            "choices": [
+                "你想要警告其他司機不遠處發生了交通事故。",
+                "你即將臨時停車。",
+                "你準備倒車。",
+                "你的車子胎壓不足了。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-36-zh.html"
+        },
+        {
+            "questionPK": "yrwlxbq",
+            "question": "信號燈上出現一個指向右方的紅箭頭表示：",
+            "answer": "紅燈時不能右轉彎。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/traffic-light-right-arrow.jpg",
+            "choices": [
+                "在確認安全的情況下可以右轉彎。",
+                "紅燈時不能右轉彎。",
+                "先停車觀察，之後再轉彎。",
+                "前方施工，請在此路口右轉彎繞行。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-37-zh.html"
+        },
+        {
+            "questionPK": "i8h59b8",
+            "question": "如果你必須在一條雙向行駛的坡路上停車，但卻發現路邊沒有路邊石（curb），此時應該注意什麼？",
+            "answer": "停車時要將前車輪轉向右邊，即與路沿相對。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/parking_downhill_without_a_curb.jpg",
+            "choices": [
+                "停車時要將前車輪轉向左邊，即與路沿相反的方向。",
+                "停車時要將車身傾斜一點，以便讓後面的車輪貼近路沿。",
+                "停車時要將前車輪轉向右邊，即與路沿相對。",
+                "停車時要讓靠近路沿一側的車輪位於路面之外。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-38-zh.html"
+        },
+        {
+            "questionPK": "mfz1gib",
+            "question": "在冬季里，哪一種道路上最有可能存在不易被發現的冰面。",
+            "answer": "橋樑和立交橋上的道路。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/icy_road.jpg",
+            "choices": [
+                "位於山頂附近的的道路。",
+                "鋪有瀝青的道路。",
+                "橋樑和立交橋上的道路。",
+                "沙土路面的道路。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-39-zh.html"
+        },
+        {
+            "questionPK": "txuz67l",
+            "question": "什麼情況下，你可以駛離路面從路肩上超車？",
+            "answer": "任何時候都不可以這樣做。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/road_shoulder.jpg",
+            "choices": [
+                "當前面的車輛正在左轉時。",
+                "當你前進的方向上有兩條或更多車道時。",
+                "任何時候都不可以這樣做。",
+                "夜間路面車流稀少時。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-40-zh.html"
+        },
+        {
+            "questionPK": "3okyo49",
+            "question": "為什麼在轉彎時應該保持車輛的轉向燈始終閃爍？",
+            "answer": "這樣可以讓其他司機知道你的意圖，從而更加安全。",
+            "questionImageUrl": null,
+            "choices": [
+                "因為這是法律規定。",
+                "這樣可以讓其他司機知道你的意圖，從而更加安全。",
+                "這樣可以延長轉向燈的壽命",
+                "因為轉向燈一旦開啟后就不能關閉了，直到完成轉彎。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-41-zh.html"
+        },
+        {
+            "questionPK": "j1d2ypa",
+            "question": "因為信號燈變紅，你在某路口停車等候。此時一位行人忽視「禁止通行」（Don’t Walk）的信號提示而穿越路口，就在此時信號燈變為綠色了。你該怎麼辦？",
+            "answer": "在這位行人通過路口之前，停車繼續等候。",
+            "questionImageUrl": null,
+            "choices": [
+                "用很慢的速度前進，小心不要撞到這位行人。",
+                "在這位行人通過路口之前，停車繼續等候。",
+                "鳴笛警告這位行人，然後慢速前進通過路口。",
+                "加速前進，搶在行人前面通過路口。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-42-zh.html"
+        },
+        {
+            "questionPK": "e6a10fz",
+            "question": "什麼情況下才需要使用安全帶？",
+            "answer": "任何情況下，只要坐在機動車內時就需要。",
+            "questionImageUrl": null,
+            "choices": [
+                "只有乘坐野營用的房車時才需要。",
+                "只有在高速公路上駕駛時才需要。",
+                "任何情況下，只要坐在機動車內時就需要。",
+                "只有在駕駛大型貨車時才需要。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-43-zh.html"
+        },
+        {
+            "questionPK": "83skzjk",
+            "question": "「安全區」是方便乘客上下公交車或有軌電車時使用的特殊區域。什麼情況下你才可以駕車穿越安全區：",
+            "answer": "作為司機，你不得在任何時候或以任何理由駕車穿越安全區。",
+            "questionImageUrl": null,
+            "choices": [
+                "當沒有公交車或有軌電車使用安全區的時候。",
+                "當沒有乘客上下車的時候。",
+                "作為司機，你不得在任何時候或以任何理由駕車穿越安全區。",
+                "當不是上下班交通高峰的時候。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-44-zh.html"
+        },
+        {
+            "questionPK": "4cmqxto",
+            "question": "開車的時候，你必須要留意那些在機動車道上騎自行車的人，因為：",
+            "answer": "他們有權與機動車共享道路。",
+            "questionImageUrl": null,
+            "choices": [
+                "他們不遵守交通規則。",
+                "他們擁有更高的優先權。",
+                "他們有權與機動車共享道路。",
+                "他們的速度很慢。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-45-zh.html"
+        },
+        {
+            "questionPK": "qp3dp6w",
+            "question": "什麼情況下需要通過後視鏡觀察車流？",
+            "answer": "倒車、變換車道或即將迅速減速時。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/rear_mirror.jpg",
+            "choices": [
+                "倒車、急轉彎或即將通過路口時。",
+                "倒車、變換車道或即將迅速減速時。",
+                "變換車道、穿越路口或即將迅速減速時。",
+                "轉彎、停車或即將超車時。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-46-zh.html"
+        },
+        {
+            "questionPK": "32aiyrb",
+            "question": "下列陳述中的哪一個是正確的？",
+            "answer": "車速越快就越難控制。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/speeding.jpg",
+            "choices": [
+                "加州的公路上是沒有最低時速限制的。",
+                "車速越快就越難控制。",
+                "超車時如果車速過快會被罰款。",
+                "加州法律規定，凌晨5點鐘至7點鐘之間禁止大型貨車駛入高速公路。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-47-zh.html"
+        },
+        {
+            "questionPK": "fdsk1c4",
+            "question": "除非另有標明，否則在學校地段的限速是多少？",
+            "answer": "時速25英里",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/school-zone.jpg",
+            "choices": [
+                "時速15英里",
+                "時速20英里",
+                "時速25英里",
+                "時速30英里"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-48-zh.html"
+        },
+        {
+            "questionPK": "8tnvdqs",
+            "question": "如圖所示，A、B兩輛車幾乎同時到達一個沒有信號燈的十字路口，請問誰應該先走？",
+            "answer": "B車輛先走",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/apr05_0639pm.jpg",
+            "choices": [
+                "A車輛先走",
+                "B車輛先走",
+                "第一個打出轉向燈的車輛先走。",
+                "轉彎的車輛先走。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-49-zh.html"
+        },
+        {
+            "questionPK": "jdjhb2v",
+            "question": "公認的最佳改善城市交通狀況的做法是哪個？",
+            "answer": "提倡和發展公共交通。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/public_transport.jpg",
+            "choices": [
+                "取消公路上的限速。",
+                "提倡和發展公共交通。",
+                "禁止外地車輛進城",
+                "提高燃油的消費稅"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-50-zh.html"
+        },
+        {
+            "questionPK": "py89c9k",
+            "question": "下列關於「盲點」的描述中，哪一個是正確的？",
+            "answer": "如果你打算向右切換車道，需要回頭查看右後方；相反，向左切換車道時就需要回頭查看左後方。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/driving_blind_spot_diagram.jpg",
+            "choices": [
+                "無論你打算向左或向右切換車道，你都應該回頭查看右後方的路況。",
+                "如果你打算向右切換車道，需要回頭查看右後方；相反，向左切換車道時就需要回頭查看左後方。",
+                "只要查看後視鏡就可以了，沒有必要過度關注盲點",
+                "只有車體較長的大型貨車才存在盲點"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-51-zh.html"
+        },
+        {
+            "questionPK": "jlta7h2",
+            "question": "下列關於藥物和駕駛的描述中，哪一個是正確的？",
+            "answer": "常見的用於治療頭痛或感冒的藥物大多會導致司機困倦。",
+            "questionImageUrl": null,
+            "choices": [
+                "常見的用於治療頭痛或感冒的藥物大多會導致司機困倦。",
+                "服藥的同時喝酒會提高藥效。",
+                "只要是醫生開具的處方藥，就表明可以在任何時候服用。",
+                "只要不是毒品就不會影響司機的身體。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-52-zh.html"
+        },
+        {
+            "questionPK": "302emra",
+            "question": "什麼情況下你才可以「雙重泊車」？",
+            "answer": "任何時候都不可以，這是違法的。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/double-parking.jpg",
+            "choices": [
+                "任何時候都不可以，這是違法的。",
+                "只有在你送貨的時候。",
+                "只有當你在車中等候的時候。",
+                "只有在你找不到停車位的時候。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-53-zh.html"
+        },
+        {
+            "questionPK": "6bmtecv",
+            "question": "為了避免你被後方的車輛撞上，你應該：",
+            "answer": "轉彎前至少100英尺時就打開轉向燈。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/zui-wei.jpg",
+            "choices": [
+                "用低於周圍車流的速度行駛。",
+                "轉彎前至少100英尺時就打開轉向燈。",
+                "轉彎前至少200英尺時就打開緊急閃光燈（雙閃燈）。",
+                "只要發現後方的車離你太近就鳴笛示警。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-54-zh.html"
+        },
+        {
+            "questionPK": "izrus0k",
+            "question": "根據加州法律，在什麼情況下警察會因為在你的車中發現了已經打開瓶蓋的酒精飲料而對你進行處罰。",
+            "answer": "如果該酒精飲料不是放置在車的後備箱內。",
+            "questionImageUrl": null,
+            "choices": [
+                "任何時候都會進行處罰。",
+                "如果該酒精飲料不是放置在車的後備箱內。",
+                "加州根本沒有這樣的法律。",
+                "如果是在高速公路上被警察截停。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-55-zh.html"
+        },
+        {
+            "questionPK": "umbq9xi",
+            "question": "如果你在駕駛途中突然遭遇車胎漏氣而必須停車求助，正確的停車位置應該是：",
+            "answer": "離開路面，停到路肩上。",
+            "questionImageUrl": null,
+            "choices": [
+                "停在最右邊的車道上。",
+                "離開路面，停到路肩上。",
+                "停在路口中央。",
+                "停在人行橫道附近。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-56-zh.html"
+        },
+        {
+            "questionPK": "3r9h7d1",
+            "question": "如果你途径一个車禍現場并想停下來提供救援，那么應該在何處停車才是正確的？",
+            "answer": "先駛過車禍現場后再找適當的地方停車。",
+            "questionImageUrl": null,
+            "choices": [
+                "先駛過車禍現場后再找適當的地方停車。",
+                "在車禍現場的旁邊停車。",
+                "在車禍現場之前停車，這樣可以警示後面經過的車輛。",
+                "給警察打電話以征求最合適的建議。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-57-zh.html"
+        },
+        {
+            "questionPK": "p4rox2x",
+            "question": "除了駕駛員之外的乘客為什麼也要繫好安全帶？",
+            "answer": "這是加州的法律規定。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/belt-other-people.jpg",
+            "choices": [
+                "安全帶可以防止乘客擅自下車。",
+                "這是加州的法律規定。",
+                "這是一個謠言，乘客根本不需要繫安全帶。",
+                "安全帶可以防止乘客暈車。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-58-zh.html"
+        },
+        {
+            "questionPK": "a0emfn8",
+            "question": "當你想要匯入高速公路上的車流時，最佳的車速應該是：",
+            "answer": "與高速公路上的車流相同的速度。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/merge_into_free_way.jpg",
+            "choices": [
+                "法律規定的最高允許速度。",
+                "與高速公路上的車流相同的速度。",
+                "比高速公路上的車流速度慢一些。",
+                "車速不重要，別忘了鳴笛警告其他車流就可以了。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-59-zh.html"
+        },
+        {
+            "questionPK": "4podlpn",
+            "question": "當你駕車來到一個十字路口時，發現信號燈壞了；此時應該怎麼辦？",
+            "answer": "先停車，然後確認安全后再繼續行駛。",
+            "questionImageUrl": null,
+            "choices": [
+                "先停車，然後確認安全后再繼續行駛。",
+                "先減速，如有必要再停車。",
+                "如果有其他車輛時才需要停車。",
+                "保持現有車速繼續行駛。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-60-zh.html"
+        },
+        {
+            "questionPK": "cb8gyfj",
+            "question": "根據加州法律，在酷熱天氣里將6歲（含6歲）以下的兒童留在車中且無人看護屬于違法行為。這是真的嗎？",
+            "answer": "是真的，即使兒童巳經被妥善的安置在兒童安全座椅上。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/children_in_car.jpg",
+            "choices": [
+                "是真的，即使兒童巳經被妥善的安置在兒童安全座椅上。",
+                "是真的，即便兒童由一名12歲（含12歲）以上者照看也不行。",
+                "不是真的，只要父母講車鑰匙留在點火器中就不構成違法。",
+                "不是真的，因為加州的氣候常年炎熱，所以根本不會有這樣的法律。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-61-zh.html"
+        },
+        {
+            "questionPK": "ztro2t2",
+            "question": "在駕車期間，如果你血液中的酒精濃度（BAC）達到或高於法定限度會面臨什麼后果？",
+            "answer": "可能會被處以罰款。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/bac-test.jpg",
+            "choices": [
+                "警察會當場將你拘留。",
+                "可能會被處以罰款。",
+                "沒關係，血液內的酒精濃度並不能作為對你進行判罰的依據。",
+                "警察會吊銷你的駕照。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-62-zh.html"
+        },
+        {
+            "questionPK": "ck0q7xx",
+            "question": "當遇到下列哪一種情況時，你應該減慢車速：",
+            "answer": "看到前方車輛的剎車燈亮起來了。",
+            "questionImageUrl": null,
+            "choices": [
+                "看到前方車輛的剎車燈亮起來了。",
+                "在高速公路上超越大型貨車的時候。",
+                "經過泥濘路段的時候。",
+                "經過車禍現場的時候。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-63-zh.html"
+        },
+        {
+            "questionPK": "kb312qj",
+            "question": "下列描述中的哪一個是正確的？",
+            "answer": "千萬不能一廂情願的認為其他司機會給你讓路。",
+            "questionImageUrl": null,
+            "choices": [
+                "所有的司機都會嚴格遵守交通標志和信號燈的。",
+                "所有的司機在轉彎時都會打開轉向燈。",
+                "千萬不能一廂情願的認為其他司機會給你讓路。",
+                "所有的司機都購買了保險。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-64-zh.html"
+        },
+        {
+            "questionPK": "xem4u9y",
+            "question": "在一條有著四車道的高速公路上，你正在快車道上駛；此時發現你身後的另外一輛車開得更快并緊貼著你的車。正確的處理辦法是：",
+            "answer": "在確認安全的時候切換到其它車道，讓它超過你。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/traffic_distance_too_close.jpg",
+            "choices": [
+                "不用管理會它，繼續沿著當前的車道行駛。",
+                "在確認安全的時候切換到其它車道，讓它超過你。",
+                "突然踩一下剎車，用剎車燈來警告對方不要跟得這麼緊。",
+                "先不用理它，等到有更多的車緊跟著你的時候再變換車道。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-65-zh.html"
+        },
+        {
+            "questionPK": "qc13hhz",
+            "question": "如果有別的車輛跟隨你的車子太近，應該如何處理？",
+            "answer": "如果可能，先切換到另外的車道讓對方超車過去。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/traffic_distance_too_close.jpg",
+            "choices": [
+                "通過突然剎車的方警告對方。",
+                "報警，對方這種行為可能不懷好意。",
+                "如果可能，先切換到另外的車道讓對方超車過去。",
+                "將手伸出車窗不停揮動，示意對方超越自己的車輛。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-66-zh.html"
+        },
+        {
+            "questionPK": "mgkz6cb",
+            "question": "當你在一條下坡路上停車時，車子的前輪應該靠向路的哪一邊？",
+            "answer": "右邊",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/parking-wheels.jpg",
+            "choices": [
+                "無所謂，哪一邊都可以。",
+                "右邊",
+                "左邊",
+                "與路邊平行"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-67-zh.html"
+        },
+        {
+            "questionPK": "0h8ufj9",
+            "question": "在一條雙向8車道的高速公路上，你行駛在最左邊的快車道上。如果想要在右前方的出口處離開高速公路，應該如何操作？",
+            "answer": "每次切換一個車道，直到駛入最右邊的車道。",
+            "questionImageUrl": null,
+            "choices": [
+                "小心觀察車流，然後一次性穿越所有車道。",
+                "每次切換一個車道，直到駛入最右邊的車道。",
+                "在當前段限速的基礎上提速50英里/小时，然後迅速的一次性穿越所有車道。",
+                "先減速，然後小心的逐條切換車道。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-68-zh.html"
+        },
+        {
+            "questionPK": "a5wttvr",
+            "question": "如果一条公路上的限速是55英里/小时，那么当道路潮濕時你应该以什么速度行驶？",
+            "answer": "以低於限速5-10英里/小時的速度速度行駛。",
+            "questionImageUrl": null,
+            "choices": [
+                "遵守限速要求，以55英里/小時的速度行駛。",
+                "以高於限速5-10英里/小時的速度行駛。",
+                "以低於限速5-10英里/小時的速度速度行駛。",
+                "以低於限速20-25英里/小時的速度行駛。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-69-zh.html"
+        },
+        {
+            "questionPK": "dts65kh",
+            "question": "根据加州的法律，在你賣车之后的5天內必須通知哪一個機構？",
+            "answer": "機動車輛管理局（DMV）",
+            "questionImageUrl": null,
+            "choices": [
+                "你的保險公司",
+                "你的貸款銀行",
+                "你的私人律師",
+                "機動車輛管理局（DMV）"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-70-zh.html"
+        },
+        {
+            "questionPK": "06y4778",
+            "question": "如果你捲入了交通事故，根據法律規定你必須和對方司機交換駕照信息，同時還要：",
+            "answer": "提供你的保險證明、車輛登記證書和目前的住址。",
+            "questionImageUrl": null,
+            "choices": [
+                "提供你的保險證明。",
+                "提供你的保險證明和車輛登記證書。",
+                "提供你的保險證明、車輛登記證書和目前的住址。",
+                "提供你的保險證明、車輛登記證書和你的家庭醫生聯繫方式。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-71-zh.html"
+        },
+        {
+            "questionPK": "jlkw68w",
+            "question": "在你的行駛方向上共有3條車道，最初你跟隨一輛大型貨車行駛在中間的車道上。如果你想超過它，正確的做法是什麼？",
+            "answer": "切換到左側的快車道，然後超車。",
+            "questionImageUrl": null,
+            "choices": [
+                "切換到左側的快車道，然後超車。",
+                "不停的鳴笛，迫使大貨車切換到其它車道，然後你再超車。",
+                "切換到右側車道，然後加速超車。",
+                "切換到左側的快車道，然後減速與大貨車並行，之後再找機會超車。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-72-zh.html"
+        },
+        {
+            "questionPK": "suuw5zs",
+            "question": "如果你已經預先判斷到後面的車輛即將撞上你的車子，你應該：",
+            "answer": "做好心理準備，當後車撞擊后再踩剎車。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/zui-wei.jpg",
+            "choices": [
+                "做好心理準備，當後車撞擊后再踩剎車。",
+                "立刻踩住剎車不放。",
+                "雙手抱住頭頸部，身體後傾。",
+                "將發動機的擋位切換到空擋（N擋），并關掉發動機。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-73-zh.html"
+        },
+        {
+            "questionPK": "y1xpdp4",
+            "question": "在倒車的時候應該如何瞭望？",
+            "answer": "需要轉頭從後車窗向外看才可以。",
+            "questionImageUrl": null,
+            "choices": [
+                "只需要看後視鏡就行了。",
+                "依靠倒車影像裝置就行了。",
+                "需要轉頭從後車窗向外看才可以。",
+                "依賴側視鏡和後視鏡就萬無一失了。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-74-zh.html"
+        },
+        {
+            "questionPK": "2yb9bzr",
+            "question": "如果你的行駛速度比周圍的車流慢，這可能會導致：",
+            "answer": "增加發生車禍的概率",
+            "questionImageUrl": null,
+            "choices": [
+                "降低發生車禍的概率",
+                "警察會對你進行處罰",
+                "增加發生車禍的概率",
+                "與車禍發生的概率無關"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-75-zh.html"
+        },
+        {
+            "questionPK": "jrwh2tz",
+            "question": "前方有一輛校巴停在路上并閃爍著紅燈，此時你應該：",
+            "answer": "停車等候，直到校巴上的紅燈停止閃爍。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/schools_bus_stop_arm.jpg",
+            "choices": [
+                "立刻停車，確認安全后再繼續行駛。",
+                "不用理會，這輛校巴出故障了，繼續行駛即可。",
+                "停車等候，直到校巴上的紅燈停止閃爍。",
+                "停車等候，等到校巴上的孩子都下車了就可以繼續行駛了。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-76-zh.html"
+        },
+        {
+            "questionPK": "32ax8bc",
+            "question": "如果在行駛中車輛突然打滑了，正確的處理辦法是：",
+            "answer": "不要踩剎車，盡力把控好方向盤。",
+            "questionImageUrl": null,
+            "choices": [
+                "連續的反復輕踩剎車。",
+                "用力踩剎車。",
+                "不要踩剎車，盡力把控好方向盤。",
+                "關閉發動機，握緊方向盤。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-77-zh.html"
+        },
+        {
+            "questionPK": "32rklc7",
+            "question": "在夜間行駛時應該使用遠光燈嗎？",
+            "answer": "請依法在適當的情況下使用遠光燈。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/high_beam.png",
+            "choices": [
+                "盡量不要使用遠光燈。",
+                "只能在沒有路燈的街道上使用遠光燈。",
+                "請依法在適當的情況下使用遠光燈。",
+                "加州法律規定，使用遠光燈是一項違法行為。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-78-zh.html"
+        },
+        {
+            "questionPK": "akl945c",
+            "question": "你行駛在一條單車道上，此時位於你前方的車輛總是莫名其妙的減速，你該如何應對？",
+            "answer": "與前車保持足夠的距離。",
+            "questionImageUrl": null,
+            "choices": [
+                "加速并從路肩上超過這輛車。",
+                "與前車保持足夠的距離。",
+                "頻繁的鳴笛警告這輛車。",
+                "報警，讓警察處理這輛車。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-79-zh.html"
+        },
+        {
+            "questionPK": "stqk32b",
+            "question": "如果你在駕駛途中感到困倦且無法抑制，正確的應對方法是：",
+            "answer": "盡快離開公路并找地方休息一下。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/driver_rest.jpg",
+            "choices": [
+                "打開車內的冷氣，讓自己精神一點。",
+                "買一杯濃咖啡來提神。",
+                "打開車內的音響，并將音量調到最大。",
+                "盡快離開公路并找地方休息一下。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-80-zh.html"
+        },
+        {
+            "questionPK": "e2tpalo",
+            "question": "下列哪一種行為不符合“安全倒車”的標準：",
+            "answer": "倒車之前鳴笛以警告周圍的行人。",
+            "questionImageUrl": null,
+            "choices": [
+                "倒車時應該回頭查看情況。",
+                "倒車時速度不要太快。",
+                "如果可以，倒車之前應該下車查看車輛的後面有無小孩子。",
+                "倒車之前鳴笛以警告周圍的行人。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-81-zh.html"
+        },
+        {
+            "questionPK": "geuotnp",
+            "question": "紅燈時，你在路口停車等候并準備右轉彎，同時在和你相同前進方向的右側人行道上有一名行人也準備過馬路。當信號燈變為綠色時，你與行人誰有優先權？",
+            "answer": "行人永遠有優先權。",
+            "questionImageUrl": null,
+            "choices": [
+                "行人永遠有優先權。",
+                "你有優先權，因為你已經打出了轉向燈。",
+                "你有優先權，因為你駕駛著機動車。",
+                "你有優先權，因為你的速度更快。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-82-zh.html"
+        },
+        {
+            "questionPK": "7esronu",
+            "question": "下列關於大型貨車的說法中哪一個是正確的？",
+            "answer": "大型貨車需要更多的剎車距離。",
+            "questionImageUrl": null,
+            "choices": [
+                "大型貨車需要更多的剎車距離。",
+                "大型貨車的剎車系統非常有力，可以迅速停車。",
+                "大型貨車的司機反應很快，善於處理各種突發情況。",
+                "大型貨車比小型車輛更容易駕駛。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-83-zh.html"
+        },
+        {
+            "questionPK": "pzbznyb",
+            "question": "如果一个路口處沒有人行橫道線或停車線，則遇到紅燈時你應該如何停車？",
+            "answer": "在路口前停車即可。",
+            "questionImageUrl": null,
+            "choices": [
+                "在路口前停車即可。",
+                "不用停車。",
+                "停在路口中央。",
+                "在距離路口二十英尺（約6米）處停車。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-84-zh.html"
+        },
+        {
+            "questionPK": "6bw5lrs",
+            "question": "如圖所示，類似的橘色標誌的意思是：",
+            "answer": "前方正值道路施工。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/road-work-1.jpg",
+            "choices": [
+                "前方正值道路施工。",
+                "前方道路關閉。",
+                "前方有收費站。",
+                "前方發生交通事故，準備繞路。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-85-zh.html"
+        },
+        {
+            "questionPK": "u1b1oia",
+            "question": "為什麼在開車時應該盡量向遠方瞭望？",
+            "answer": "因為這樣有助於司機提早發現危及駕駛安全的隱患。",
+            "questionImageUrl": null,
+            "choices": [
+                "因為這樣就不用看車輛兩邊的側視鏡了。",
+                "因為這是美國加州的法律規定。",
+                "因為這樣有助於司機提早發現危及駕駛安全的隱患。",
+                "因為這樣有助於司機緩解眼睛的疲勞。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-86-zh.html"
+        },
+        {
+            "questionPK": "3rbcjxi",
+            "question": "前方的路口沒有信號燈，而且看不到兩側方向有駛近的車輛，此時你應該以什麼車速通過該路口呢？",
+            "answer": "每小時15英里",
+            "questionImageUrl": null,
+            "choices": [
+                "每小時25英里",
+                "每小時15英里",
+                "每小時10英里",
+                "每小時40英里"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-87-zh.html"
+        },
+        {
+            "questionPK": "jvu0fin",
+            "question": "什麼情況下駛入交叉路口是違反交通法規的？",
+            "answer": "在紅色信號燈亮起時，你的車輛距離路口還有一段距離。",
+            "questionImageUrl": null,
+            "choices": [
+                "在紅色信號燈亮起時，你的車輛距離路口還有一段距離。",
+                "在黃色信號燈亮起時，你的車輛駛入了路口。",
+                "在綠色信號燈亮起時，你的車輛駛入了路口。",
+                "在沒有鳴笛的情況下，你的車輛駛入了路口。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-88-zh.html"
+        },
+        {
+            "questionPK": "o9v745s",
+            "question": "什麼情況下才可以在小型卡車（如“皮卡”）的車斗中坐人？",
+            "answer": "車斗內配有供乘客使用的安全座椅和安全帶。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/pickup_truck_people.jpg",
+            "choices": [
+                "車斗四周的圍欄高度在24英吋以上時。",
+                "車斗上方有車罩覆蓋時。",
+                "車斗內配有供乘客使用的安全座椅和安全帶。",
+                "任何情況下都不能再車斗內搭載乘客。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-89-zh.html"
+        },
+        {
+            "questionPK": "3w70sa1",
+            "question": "下列關於關摩托車的說法中，哪一項是正確的？",
+            "answer": "安全起見，其它車輛行駛時應該和摩托車之間保持較大的距離。",
+            "questionImageUrl": null,
+            "choices": [
+                "因為摩托車體積小，所以更容易被其他司機注意到。",
+                "根據加州法律規定，摩托車不能和其它機動車共用車道。",
+                "安全起見，其它車輛行駛時應該和摩托車之間保持較大的距離。",
+                "根據加州法律規定，摩托車只能在市區之外使用。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-90-zh.html"
+        },
+        {
+            "questionPK": "my5jjw0",
+            "question": "從安全的角度考慮，下列哪一組換線操作的順序是正確的？",
+            "answer": "打轉向燈，回頭查看盲點，換線",
+            "questionImageUrl": null,
+            "choices": [
+                "打轉向燈，看後視鏡，換線。",
+                "打轉向燈，回頭查看盲點，換線",
+                "打轉向燈，換線。",
+                "打轉向燈的同時換線。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-91-zh.html"
+        },
+        {
+            "questionPK": "91t4en1",
+            "question": "某些路段的路沿會被塗上紅色，這表示：",
+            "answer": "除了公交車外，其它車輛禁止在此停車。（通常會配有明顯的標誌）",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/red_curb_parking.jpg",
+            "choices": [
+                "除了公交車外，其它車輛禁止在此停車。（通常會配有明顯的標誌）",
+                "只有殘疾人車輛才可以在此停車。",
+                "只有緊急車輛才可以在此停車。",
+                "只有摩托車才可以在此停車。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-92-zh.html"
+        },
+        {
+            "questionPK": "rf8996f",
+            "question": "在下坡路上停車時，車輪應該轉到哪個方向？",
+            "answer": "向右轉，面向路沿。",
+            "questionImageUrl": null,
+            "choices": [
+                "向右轉，面向路沿。",
+                "向左轉，與路沿相反。",
+                "車輪擺正，與路沿平行。",
+                "法律禁止在下坡路上停車。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-93-zh.html"
+        },
+        {
+            "questionPK": "kzynjmj",
+            "question": "在限速為65英里/小時的高速公路上，一輛車以55英里/小時的速度行駛在最左側的快車道上；該車的司機有可能被警察處罰嗎？",
+            "answer": "有可能，如果警察認為該車阻礙了交通。",
+            "questionImageUrl": null,
+            "choices": [
+                "不會的，因為以這樣的速度駕駛會安全。",
+                "有可能，因為加州的法律規定非緊急車輛不能行駛在快車道上。",
+                "有可能，如果警察認為該車阻礙了交通。",
+                "不會的，只要該車的司機沒有酒後駕駛。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-94-zh.html"
+        },
+        {
+            "questionPK": "io66won",
+            "question": "當你減速并打開轉向燈準備左轉彎時，發現對面有車駛來，應該如何應對？",
+            "answer": "停車等候，讓來車先行。",
+            "questionImageUrl": null,
+            "choices": [
+                "立刻轉彎，只要周圍沒有行人。",
+                "停車等候，讓來車先行。",
+                "繼續轉彎，因為你有優先權。",
+                "加速完成轉彎，這樣才安全。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-95-zh.html"
+        },
+        {
+            "questionPK": "3hakqhp",
+            "question": "以下關於“盲點”的說法中，哪一個是正確的：",
+            "answer": "向左切換車道時回頭向左邊看，向右切換車道時回頭向右邊看。",
+            "questionImageUrl": null,
+            "choices": [
+                "不管向左切換車道是向右切換車道，只需回頭向右看即可。",
+                "向左切換車道時回頭向左邊看，向右切換車道時回頭向右邊看。",
+                "根本不存在“盲點”，因為現代的汽車在兩側都配有後視鏡。",
+                "所謂“盲點”是指視力不好的司機在光線昏暗的情況下無法辨別遠方的物體。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-96-zh.html"
+        },
+        {
+            "questionPK": "pv811l2",
+            "question": "如果車子在有水的路面上打滑了應該怎麼辦？",
+            "answer": "鬆開油門來減速，別踩剎車。",
+            "questionImageUrl": null,
+            "choices": [
+                "保持當前的車速，避免車子失控。",
+                "大力踩剎車來避免車子打滑。",
+                "鬆開油門來減速，別踩剎車。",
+                "關閉發動機，拉起手剎。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-97-zh.html"
+        },
+        {
+            "questionPK": "sv485l0",
+            "question": "這個標誌表示：",
+            "answer": "任何情況下都禁止超車。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/39ad0419d3edec9ccf5ba55869cb2ef3.png",
+            "choices": [
+                "不要在此處停車。",
+                "安全的情況下可以超車。",
+                "任何情況下都禁止超車。",
+                "該區域禁止通行。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-98-zh.html"
+        },
+        {
+            "questionPK": "nxwsde5",
+            "question": "你來到一個有停牌標誌的交叉路口，左右瞭望時發現有建築物或灌木叢等障礙物遮擋視線。此時應該：",
+            "answer": "先慢慢前進以便避開遮擋視線的障礙物，直到可以看清路況后再通過路口。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/stop_sign_bush.jpg",
+            "choices": [
+                "確認橫向的車道在路口處也有停牌標誌再繼續行駛。",
+                "繼續前進，但做好隨時停車的準備。",
+                "先慢慢前進以便避開遮擋視線的障礙物，直到可以看清路況后再通過路口。",
+                "繼續前進，因為你有優先權。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-99-zh.html"
+        },
+        {
+            "questionPK": "u2vaxec",
+            "question": "下列關於酒後駕駛的說法中，哪一項是正確的？",
+            "answer": "酒精會影響司機的判斷力和自制力。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/bac-test.jpg",
+            "choices": [
+                "只要酒後神志清醒就不會影響駕車。",
+                "只要血液中的酒精濃度沒有超過法律規定就不會影響駕駛。",
+                "酒精會影響司機的判斷力和自制力。",
+                "沒有正確答案。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-100-zh.html"
+        },
+        {
+            "questionPK": "ornw4b4",
+            "question": "在路口左轉彎時的正確做法是：",
+            "answer": "轉彎前要觀察路口各個方向的車流情況。",
+            "questionImageUrl": null,
+            "choices": [
+                "轉彎前一定要先完全停車。",
+                "轉彎前要觀察路口各個方向的車流情況。",
+                "轉彎時要鳴笛提醒行人避讓。",
+                "轉彎時要將手伸出窗外不停揮動。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-101-zh.html"
+        },
+        {
+            "questionPK": "72grlyt",
+            "question": "下列哪一項屬於阻塞交通的不良行為：",
+            "answer": "開車時左顧右盼及隨意變換車道。",
+            "questionImageUrl": null,
+            "choices": [
+                "開車時左顧右盼及隨意變換車道。",
+                "轉彎時減速。",
+                "駕齡不足1年的新手獨自上路。",
+                "在高速公路上駕駛老舊的車輛。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-102-zh.html"
+        },
+        {
+            "questionPK": "a8b4aj2",
+            "question": "如果突然有一輛車切換車道擋在你的前方，應該如何做出反應？",
+            "answer": "鬆開油門，讓車輛減速。",
+            "questionImageUrl": null,
+            "choices": [
+                "用力鳴笛向對方提出抗議，同時狠踩剎車。",
+                "鬆開油門，讓車輛減速。",
+                "立刻猛打方向盤，切換到旁邊的車道。",
+                "鬆開方向盤，雙手抱住頭部以防追尾時受傷。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-103-zh.html"
+        },
+        {
+            "questionPK": "9jghol3",
+            "question": "當你剛剛超過一輛車後，什麼情況下回到原來的車道才是安全的？",
+            "answer": "從後視鏡中可以完整的看到被超車輛的兩盞前車燈後。",
+            "questionImageUrl": null,
+            "choices": [
+                "得到被超越的車輛的司機同意後再返回。",
+                "持續打開轉向燈3秒鐘，向對方明確表達自己要回到原車道之後。",
+                "從後視鏡中可以完整的看到被超車輛的兩盞前車燈後。",
+                "加速行駛，與被超越車輛的間距大於500米後。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-104-zh.html"
+        },
+        {
+            "questionPK": "7w6knnh",
+            "question": "這個標誌表示什麼意思？",
+            "answer": "保持在右側車道行駛。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/f9c060600a83b07026a1a48431d65694.jpg",
+            "choices": [
+                "保持在右側車道行駛。",
+                "處於右側車道的車輛必須在前方右轉彎。",
+                "慢行車輛應該保持在右側車道行駛。",
+                "高速公路的出口位於右側。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-105-zh.html"
+        },
+        {
+            "questionPK": "1yd9idr",
+            "question": "車輛在光滑路面上容易打滑，為了避免這種情況所引發的事故，應該怎麼做？",
+            "answer": "轉彎或靠近路口時要減速，避免剎車失靈。",
+            "questionImageUrl": null,
+            "choices": [
+                "駕駛時將發動機切換到低檔位。",
+                "盡可能在路肩上行駛，因為那裡往往有很多樹葉和碎石，可以增大輪胎的抓地力。",
+                "轉彎或靠近路口時要減速，避免剎車失靈。",
+                "更換雪胎后再上路行駛。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-106-zh.html"
+        },
+        {
+            "questionPK": "z8pvq4e",
+            "question": "為什麼說當在高速公路上駕駛時，司機的目光應該比在市區內駕駛時放得更寬更遠？",
+            "answer": "只有這樣才能提前發現可能出現的危險。",
+            "questionImageUrl": null,
+            "choices": [
+                "只有這樣才能提前發現可能出現的危險。",
+                "因為高速公路上的風景更好。",
+                "因為高速公路上的車流量更大。",
+                "因為才能更好的發現警察。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-107-zh.html"
+        },
+        {
+            "questionPK": "gvmfeeb",
+            "question": "綠燈時你接近一个十字路口，此时路口内已经被拥堵的車流阻塞了，你该怎麼辦",
+            "answer": "在阻塞消失前，不要駛入路口。",
+            "questionImageUrl": null,
+            "choices": [
+                "繼續前進駛入路口，這樣當紅燈亮起時你就有優先權了。",
+                "在阻塞消失前，不要駛入路口。",
+                "原地將車輛掉頭，離開這裡。",
+                "不停的鳴笛以催促那些車輛快點離開路口。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-108-zh.html"
+        },
+        {
+            "questionPK": "srdpn2x",
+            "question": "在你的前方出現一輛停車且亮著紅燈的校車，你應該怎麼做？",
+            "answer": "停車，直至校車上的紅燈熄滅。",
+            "questionImageUrl": null,
+            "choices": [
+                "停車，直至校車上的全部學生都巳經下車。",
+                "停車，直至校車上的紅燈熄滅。",
+                "切換到另外的車道，小心的繞開校車。",
+                "鳴笛，催促校車快點讓路。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-109-zh.html"
+        },
+        {
+            "questionPK": "hbzw2j1",
+            "question": "塗有藍色的路沿表示：",
+            "answer": "該路段禁止停車，除非司機是殘障人士或持有特定的停車許可證。",
+            "questionImageUrl": null,
+            "choices": [
+                "在該路段停車時不得超過15分鐘。",
+                "該路段可以隨時停車，以便乘客上下。",
+                "該路段禁止停車，除非司機是殘障人士或持有特定的停車許可證。",
+                "該路段正在施工，所有車輛需繞行。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-110-zh.html"
+        },
+        {
+            "questionPK": "d2tlnc2",
+            "question": "你行駛在一條雙向單車道上，此時迎面駛來一輛車，而你所在車道的右側停著一排車；此時你應該怎麼辦？",
+            "answer": "小心的在迎面而來的車和停著的車之間行駛。",
+            "questionImageUrl": null,
+            "choices": [
+                "鳴笛以警告對面的車輛，因為你有優先權。",
+                "在右側的路肩上行駛，繞過停著的車輛。",
+                "小心的在迎面而來的車和停著的車之間行駛。",
+                "沒有正確答案。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-111-zh.html"
+        },
+        {
+            "questionPK": "8q8z0cx",
+            "question": "當你駕車已經行駛到十字路口的中央時，才忽然想起應該左轉彎而不是直行，這時該怎麼辦？",
+            "answer": "繼續前進到下一個路口，然後設法回到剛才錯過的路口。",
+            "questionImageUrl": null,
+            "choices": [
+                "迅速左轉彎。",
+                "繼續前進到下一個路口，然後設法回到剛才錯過的路口。",
+                "先倒車，確認安全后左轉彎。",
+                "立刻停車，確認安全后左轉彎。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-112-zh.html"
+        },
+        {
+            "questionPK": "j5679c8",
+            "question": "在有分隔帶的多車道路段上開車時，如果想要轉彎，應該在哪條車道上進行？",
+            "answer": "靠近分隔帶的最左側的車道上。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/gelidai-lane.jpg",
+            "choices": [
+                "中間的車道上。",
+                "任何車道都可以。",
+                "靠近分隔帶的最左側的車道上。",
+                "禁止轉彎。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-113-zh.html"
+        },
+        {
+            "questionPK": "va0c20v",
+            "question": "哪一種情況下不要跨越路中間的雙黃色實線？",
+            "answer": "超車時。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/double-yellow-line.jpg",
+            "choices": [
+                "超車時。",
+                "左轉彎時。",
+                "進入私人車道時。",
+                "U 形轉彎時。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-114-zh.html"
+        },
+        {
+            "questionPK": "u9sso41",
+            "question": "只要車輛處於運動狀態下，司機就應該繫上安全帶。這句話對嗎？",
+            "answer": "正確。只要車輛有安全帶就需要如此。",
+            "questionImageUrl": null,
+            "choices": [
+                "錯誤。如果駕駛的是小型車輛就不需要安全帶。",
+                "正確。但僅限於車輛沒有配備安全氣囊的情況下。",
+                "正確。只要車輛有安全帶就需要如此。",
+                "錯誤。駕駛豪華車輛時就不需要安全帶。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-115-zh.html"
+        },
+        {
+            "questionPK": "l9lwplu",
+            "question": "如图所示，如果當你準備轉彎時看到交通燈是這樣的；那麼下列描述中的哪一個是正確的？",
+            "answer": "位於你對面的車輛和行人此時看到的信號燈是紅色的。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/traffic_green_light_arrow.jpg",
+            "choices": [
+                "處於該路口的所有車輛和行人都必須讓路給你。",
+                "位於你對面的車輛和行人此時看到的信號燈是紅色的。",
+                "此時你不能轉彎。",
+                "交通燈出現故障了。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-116-zh.html"
+        },
+        {
+            "questionPK": "rw945hx",
+            "question": "當你從斜的停車位中倒車出來時，應該在放慢車速的同時：",
+            "answer": "將頭扭過肩膀查看右后方。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/parking-lot-xie.jpg",
+            "choices": [
+                "查看後視鏡。",
+                "查看兩側的鏡子。",
+                "將頭扭過肩膀查看右后方。",
+                "查看倒車攝像頭。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-117-zh.html"
+        },
+        {
+            "questionPK": "lei4zx3",
+            "question": "如果在路口的地面上沒有看到限制線，那麼在紅燈時應該將車停在何處？",
+            "answer": "路口的轉彎處。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/stop-line.jpg",
+            "choices": [
+                "距離路口5米處。",
+                "路口的轉彎處。",
+                "距離路口10米處。",
+                "路口中央。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-118-zh.html"
+        },
+        {
+            "questionPK": "wfwr9vb",
+            "question": "如圖所示，這個標誌表示：",
+            "answer": "供持有特許停車證的殘障人士停車。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/927fc8cb266c74803c5cda75f32a4a83.jpg",
+            "choices": [
+                "停放輪椅的地方。",
+                "停放自行車的地方。",
+                "供持有特許停車證的殘障人士停車。",
+                "停放摩托車的地方。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-119-zh.html"
+        },
+        {
+            "questionPK": "vj5mzkn",
+            "question": "當你來到一個交叉路口時，發現紅色信號燈在不停閃爍，這表示什麼意思？",
+            "answer": "先停車觀察路口的車流，確認安全后再繼續穿過路口。",
+            "questionImageUrl": null,
+            "choices": [
+                "該路口正在施工，請繞行。",
+                "信號燈壞了，不用理會，繼續行駛穿過該路口。",
+                "先停車觀察路口的車流，確認安全后再繼續穿過路口。",
+                "立刻停車，等綠燈亮起后再通過路口。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-120-zh.html"
+        },
+        {
+            "questionPK": "m1sfzir",
+            "question": "在駕駛汽車時，司機的注意力應該放在哪裡？",
+            "answer": "要注意觀察自己車輛周圍的狀況，不光只是前方的車流。",
+            "questionImageUrl": null,
+            "choices": [
+                "時刻都要目視前方，注意和前車保持安全的距離。",
+                "要注意觀察 GPS 導航儀，避免迷路。",
+                "要注意觀察自己車輛周圍的狀況，不光只是前方的車流。",
+                "要多留意跟在自己後方的車輛，避免追尾事故的發生。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-121-zh.html"
+        },
+        {
+            "questionPK": "uls3v5r",
+            "question": "夜間駕駛時，如果迎面車輛的遠光燈讓你的眼睛看不清東西，應該如何應對？",
+            "answer": "將視線轉向道路的右側，藉此緩解眼睛的不舒服。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/201305071151.jpg",
+            "choices": [
+                "打開自己車上的遠光燈警告對方司機。",
+                "將視線轉向道路的右側，藉此緩解眼睛的不舒服。",
+                "立刻減速，然後低頭避開對面的燈光。",
+                "在握緊方向盤的前提下閉上眼睛以躲避燈光。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-122-zh.html"
+        },
+        {
+            "questionPK": "wz8ebov",
+            "question": "為什麼我們應該在雨天、雪天或霧天里打開車燈呢？",
+            "answer": "這是為了便於對面的司機更容易看到自己的車。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/driving_fog_lights.jpg",
+            "choices": [
+                "這樣可以讓自己更好的看清路面。",
+                "這是為了便於對面的司機更容易看到自己的車。",
+                "這是為了告訴周圍的人天氣不好，早點回家。",
+                "這是美國加州的法律規定，必須無條件的執行。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-123-zh.html"
+        },
+        {
+            "questionPK": "wb3zmh9",
+            "question": "如果沒有特別的提醒或交通標誌，我們在商業區行駛時應該將車速控制在：",
+            "answer": "每小時25英里",
+            "questionImageUrl": null,
+            "choices": [
+                "每小時25英里",
+                "每小時20英里",
+                "每小時30英里",
+                "每小時10英里"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-124-zh.html"
+        },
+        {
+            "questionPK": "hxz4po9",
+            "question": "如果一輛迎面開來的車輛在沒有打轉向燈的情況下突然在你的前方左轉彎，你應該：",
+            "answer": "立刻減速甚至停車，以免發生車禍。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/left-turn.jpg",
+            "choices": [
+                "在維持現有車速不變的情況下按喇叭警告對方。",
+                "繼續保持現有車速前進，即便發生事故也是對方承擔全部責任。",
+                "立刻減速甚至停車，以免發生車禍。",
+                "立刻切換到其它車輛，避開這種沒有素質的司機。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-125-zh.html"
+        },
+        {
+            "questionPK": "12d9wxo",
+            "question": "如圖所示，這兩種標誌是什麼意思？",
+            "answer": "只能在綠色左轉箭頭亮起時才可以左轉彎。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/left-turn-on-green-only.png",
+            "choices": [
+                "該路口禁止 U 型轉彎。",
+                "該路口只允許右轉彎。",
+                "只能在綠色左轉箭頭亮起時才可以左轉彎。",
+                "任何穿越該路口的行人將被罰款。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-126-zh.html"
+        },
+        {
+            "questionPK": "ji6tdtc",
+            "question": "如果警察以酒後駕駛的名義拘捕你，而你拒絕接受血液酒精濃度測試。其後果是：",
+            "answer": "駕駛執照將被吊銷至少一年。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/H8eI-fyiiahy5287835.jpg",
+            "choices": [
+                "駕駛執照將被吊銷至少一年。",
+                "你將被無罪釋放，因為警察無法對你進行定罪。",
+                "只有當律師在場時，警察才能對你進行該項測試。",
+                "你的汽車將被扣押。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-127-zh.html"
+        },
+        {
+            "questionPK": "make56f",
+            "question": "根據美國加州的法律，在商業區內掉轉車頭這種操作是：",
+            "answer": "被允許的，但僅限於在交叉路口處進行，並且還要沒有禁止 U 型轉彎的標誌。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/6.gif",
+            "choices": [
+                "被禁止的，因為這樣做很危險。",
+                "被允許的，但必須要確認迎面沒有駛近的其它車輛。",
+                "被允許的，但僅限於在交叉路口處進行，並且還要沒有禁止 U 型轉彎的標誌。",
+                "被允許的，但只能在夜間進行。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-128-zh.html"
+        },
+        {
+            "questionPK": "l0ttp0p",
+            "question": "什麼情況下，你可以在開車時僅打開停車燈：",
+            "answer": "任何情況下都不可以。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/parking-light.jpg",
+            "choices": [
+                "在郊外的小路上。",
+                "日落後30分鐘或日出前30分鐘。",
+                "任何情況下都不可以。",
+                "在大霧天里。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-129-zh.html"
+        },
+        {
+            "questionPK": "r3bqanz",
+            "question": "如图所示，如果有兩組雙黃實線且它们之間的距离至少有2英尺寬；这表示什么？",
+            "answer": "對司機而言，這樣的兩組雙黃實線等同於不可逾越的墻壁。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/two-double-solid-yellow-lines.jpg",
+            "choices": [
+                "左轉彎或 U 型轉彎時可以跨越這兩組雙黃實線。",
+                "對司機而言，這樣的兩組雙黃實線等同於不可逾越的墻壁。",
+                "前方即將出現渡口。",
+                "該路段僅在節假日期間才允許重型卡車通行。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-130-zh.html"
+        },
+        {
+            "questionPK": "hlqj2ig",
+            "question": "如果路口的交通燈出現下圖中的這種綠色箭頭表示什麼？",
+            "answer": "你可以優先向該方向轉彎。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/traffic_green_light_arrow.jpg",
+            "choices": [
+                "你可以優先向該方向轉彎。",
+                "禁止轉彎。",
+                "對面的車輛可以轉彎了，而你需要等候。",
+                "如果你駕駛的是緊急車輛，那麼可以優先轉彎了。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-131-zh.html"
+        },
+        {
+            "questionPK": "auwmap8",
+            "question": "什麼情況下你可以在紅燈時左轉彎？",
+            "answer": "從單行道進入另外的單行道時。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/one-way-red-light-left-turn.jpg",
+            "choices": [
+                "從單行道進入雙行道時。",
+                "從單行道進入另外的單行道時。",
+                "從雙行道進入單行道時。",
+                "從雙行道進入另外的雙行道時。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-132-zh.html"
+        },
+        {
+            "questionPK": "408jb3d",
+            "question": "因為盲人或視力受損的行人在通過路口時會根據車流的聲音來判斷是否安全，所以如果在路口看到他們時你應該：",
+            "answer": "靠近人行橫道停車，以便盲人能聽見你車子的聲音",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/Blind_Man_Crossing_Road.jpg",
+            "choices": [
+                "在人行橫道前停車，然後不停按喇叭。",
+                "將車輪壓在人行橫道上，這樣可以讓盲人更好的聽見你車子的聲音。",
+                "靠近人行橫道停車，以便盲人能聽見你車子的聲音",
+                "在距離人行橫道50英呎處停車，然後不停按喇叭。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-133-zh.html"
+        },
+        {
+            "questionPK": "g06tksj",
+            "question": "下面的四個場景中，哪一個需要司機格外小心的駕駛？",
+            "answer": "在學校附近或居民區行駛時。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/schoolzone.jpg",
+            "choices": [
+                "在高速公路上超車時。",
+                "在學校附近或居民區行駛時。",
+                "靠近市郊的飛機場時。",
+                "在空曠的鄉村公路上行駛時。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-134-zh.html"
+        },
+        {
+            "questionPK": "uizeur9",
+            "question": "關於轉彎專用車道的描述中，以下哪一句是正確的？",
+            "answer": "進入該專用車道的車輛在轉彎時不用擔心與迎面而來的車輛或行人發生衝突。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/right_turn_only_lane.jpg",
+            "choices": [
+                "該路口的所有的車輛和行人都要給你讓路。",
+                "進入該專用車道的車輛在轉彎時不用擔心與迎面而來的車輛或行人發生衝突。",
+                "進入該專用車道后就不需要留心路況了。",
+                "在加州根本沒有這樣的專用車道。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-135-zh.html"
+        },
+        {
+            "questionPK": "h34fjd3",
+            "question": "你看到一位手持白色手杖的行人正準備穿越街道，但他突然停下腳步并收回了手杖；你應該怎麼做？",
+            "answer": "繼續行駛，因為這位行人還沒有準備好穿越街道。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/Blind_Man_Crossing_Road.jpg",
+            "choices": [
+                "繼續行駛，因為這位行人還沒有準備好穿越街道。",
+                "在距離該行人六英尺處停車等候，直到行人穿過街道。",
+                "按喇叭催促該行人快點穿過街道。",
+                "在路邊停車，然後下車攙扶該行人穿越街道。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-136-zh.html"
+        },
+        {
+            "questionPK": "87hh9hj",
+            "question": "關於「讓行其它車輛」這件事，下列敘述中的哪一個是正確的？",
+            "answer": "任何時候，只要有助於避免交通事故的發生。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/yield_driving.jpg",
+            "choices": [
+                "僅在有監控攝像頭的路口才需要這樣做。",
+                "任何時候，只要有助於避免交通事故的發生。",
+                "永遠不要這麼做，因為這會使其他駕駛者感到困惑。",
+                "僅在有警察在場的時候才需要這樣做。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-137-zh.html"
+        },
+        {
+            "questionPK": "uxst9xk",
+            "question": "如圖所示，這種形狀的橘黃色標誌表示：",
+            "answer": "掛有這種標誌的機動車是慢行車輛。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/d916402d798bca185d093176502f123e.jpg",
+            "choices": [
+                "掛有這種標誌的機動車有優先權。",
+                "掛有這種標誌的機動車是慢行車輛。",
+                "前方路段出現了危險狀況。",
+                "前方路段正在施工。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-138-zh.html"
+        },
+        {
+            "questionPK": "sb7ukl1",
+            "question": "發生以下哪一種情況時，你必須報警並向機動車輛管理局（DMV）提交書面報告：",
+            "answer": "你捲入了一場交通事故，且事故中有人傷亡。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/dmv_california.jpg",
+            "choices": [
+                "你的車子發生了故障，不能開動了。",
+                "你的車子因為非法停車而被拖走了。",
+                "你捲入了一場交通事故，且事故中有人傷亡。",
+                "你的汽車保險過期了。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-139-zh.html"
+        },
+        {
+            "questionPK": "tcjlacu",
+            "question": "駕駛中如果看到發生了車禍，請不要減速觀看，因為這樣會導致：",
+            "answer": "交通阻塞。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/california_car_accident_scene.jpg",
+            "choices": [
+                "交通阻塞。",
+                "汽車尾氣排放超標。",
+                "剎車失靈。",
+                "車上的乘客感覺不適。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-140-zh.html"
+        },
+        {
+            "questionPK": "7bq9em6",
+            "question": "除非特別的標誌說明，否則在宅區行駛時的限速是多少？",
+            "answer": "25英里/小時",
+            "questionImageUrl": null,
+            "choices": [
+                "35英里/小時",
+                "25英里/小時",
+                "30英里/小時",
+                "100英里/小時"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-141-zh.html"
+        },
+        {
+            "questionPK": "bd8d0a6",
+            "question": "发生下列哪一种情况时，你必須在5天之內通知機動車輛管理局。",
+            "answer": "你賣掉或轉讓了自己的車。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/dmv_california.jpg",
+            "choices": [
+                "你賣掉或轉讓了自己的車。",
+                "你因違反交通規則而被開了罰單。",
+                "你將車子塗成了另外一種顏色。",
+                "你更換了保險公司。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-142-zh.html"
+        },
+        {
+            "questionPK": "qrhbhb3",
+            "question": "如果你遭遇車禍，且有人員傷亡或因車禍造成$500以上的損失，則必須報警，並寫一份書面報告（SR-1）給下列哪一個機構？",
+            "answer": "機動車輛管理局（DMV）",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/dmv_california.jpg",
+            "choices": [
+                "保險公司",
+                "加州高速公路巡邏隊",
+                "機動車輛管理局（DMV）",
+                "加州州議會"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-143-zh.html"
+        },
+        {
+            "questionPK": "nsccgwh",
+            "question": "如圖所示，你準備在這條車道上左轉彎，而中間的車道兩側都畫有實線條；這種情況下你的車子可以駛入中間的車道嗎？",
+            "answer": "可以，而且只能使用中間的車道完成轉彎操作。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/two-way-left-turn.jpg",
+            "choices": [
+                "可以，而且只能使用中間的車道完成轉彎操作。",
+                "不可以，中間的車道只能在右轉彎時才能使用。",
+                "不可以，中間的車道是留給緊急車輛使用的。",
+                "不可以，因為任何情況下都不能跨越實線。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-144-zh.html"
+        },
+        {
+            "questionPK": "yn8x57g",
+            "question": "如圖所示，這一標誌表示：",
+            "answer": "提醒司機道路在前方即將出現左轉彎。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/41563c4e74fb8a9a6e63435c18dc5539.jpg",
+            "choices": [
+                "提醒司機道路在前方即將出現左轉彎。",
+                "前方道路禁止左轉彎。",
+                "前方道路的左側有休息站。",
+                "前方道路的左側是高速公路的出口。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-145-zh.html"
+        },
+        {
+            "questionPK": "tksj63b",
+            "question": "為什麼大卡車在行駛時通常和前面的車輛保持較大的距離？",
+            "answer": "因為大卡車在剎車時需要更多的空間。",
+            "questionImageUrl": null,
+            "choices": [
+                "因為這是法律規定。",
+                "因為大卡車在剎車時需要更多的空間。",
+                "因為卡車司機需要瞭望遠方。",
+                "因為卡車的速度較慢。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-146-zh.html"
+        },
+        {
+            "questionPK": "6zjnkwp",
+            "question": "如果警察認定你駕車時血液中酒精濃度（BAC）過高，等待你的處罰將是：",
+            "answer": "最高可達6個月的監禁。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/california_driving_bac.jpg",
+            "choices": [
+                "最高可達6個月的監禁。",
+                "最高可達12個月的監禁。",
+                "繳納500美元罰款。",
+                "繳納200美元罰款。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-147-zh.html"
+        },
+        {
+            "questionPK": "k3a6tfl",
+            "question": "在高速公路上行駛時，如果你的車子位於最右側的車道，那麼你應該：",
+            "answer": "在高速公路入口處留心那些進入高速公路的車流。",
+            "questionImageUrl": null,
+            "choices": [
+                "比其他司機開得更慢。",
+                "在高速公路入口處留心那些進入高速公路的車流。",
+                "比其他司機開得更快。",
+                "按照法律規定去主動救援那些拋錨在路邊的車輛。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-148-zh.html"
+        },
+        {
+            "questionPK": "ea4yh1n",
+            "question": "假設你的車子位於前面車輛的左后方，則下列敘述中的哪一句是正确的？",
+            "answer": "這個位置很危險，因為你正位于前車司機的盲點中。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/driving_blind_spot_diagram.jpg",
+            "choices": [
+                "這是一個不錯的位置，有利於在你剎車時提供更多的緩沖空間。",
+                "這是一個不錯的位置，可以避開前車司機的盲點。",
+                "這是一個不錯的位置，前車可以有效的幫你降低風阻。",
+                "這個位置很危險，因為你正位于前車司機的盲點中。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-149-zh.html"
+        },
+        {
+            "questionPK": "no0hmtl",
+            "question": "大型卡車最有可能在以下哪種情況下發生速度失控而引起危險？",
+            "answer": "又長又陡的上坡路段。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/up_hill_truck.jpg",
+            "choices": [
+                "冗長而彎度較緩的彎道中。",
+                "又長又陡的上坡路段。",
+                "長且舒緩的下坡路段。",
+                "泥濘不堪的山路上。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-150-zh.html"
+        },
+        {
+            "questionPK": "booxwzz",
+            "question": "什麼情況下你可以在紅燈時右轉彎？",
+            "answer": "停車，查看交通狀況并確信安全之後。",
+            "questionImageUrl": null,
+            "choices": [
+                "減速，查看交通狀況并確信安全之後。",
+                "停車，查看交通狀況并確信安全之後。",
+                "任何時候都不可以。",
+                "路口沒有警察的時候。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-151-zh.html"
+        },
+        {
+            "questionPK": "7p6sa00",
+            "question": "以下哪些兒童要求使用兒童安全座椅",
+            "answer": "體重55磅的5歲兒童",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/Car_Seat.jpg",
+            "choices": [
+                "體重55磅的5歲兒童",
+                "體重60磅的6歲兒童",
+                "體重65磅的5歲兒童",
+                "體重70磅的8歲兒童"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-152-zh.html"
+        },
+        {
+            "questionPK": "9bu3ix0",
+            "question": "以下關於轉向燈的描述中，哪一句是正確的？",
+            "answer": "切換車道時打轉向燈是好習慣。",
+            "questionImageUrl": null,
+            "choices": [
+                "僅在視線不清楚的大霧天里才需要打轉向燈。",
+                "切換車道時打轉向燈是好習慣。",
+                "當你打轉向燈時，其他駕駛者有義務給你讓路。",
+                "仅在夜间才需要打轉向燈。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-153-zh.html"
+        },
+        {
+            "questionPK": "6mia251",
+            "question": "如何看待有些司機在擁堵的高速公路上不停變換車道的行為？",
+            "answer": "這種行為可能會導致其它車輛減速，使得原本就不順暢的交通變得更加糟糕。",
+            "questionImageUrl": null,
+            "choices": [
+                "這樣做可以更好的為其它車輛提供匯入車流的機會，有利於安全駕駛。",
+                "這種行為可能會導致其它車輛減速，使得原本就不順暢的交通變得更加糟糕。",
+                "這樣開車可以提高燃油效率，減少尾氣排放。",
+                "這樣開車可以讓覺得困倦的司機更容易集中注意力。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-154-zh.html"
+        },
+        {
+            "questionPK": "a22f0ml",
+            "question": "你行駛在一條只有單車道的路段上，而這時有輛車緊跟著你看起來想要超車。你應該如何應對？",
+            "answer": "把車駛入最近的避讓區停下來，讓對方超車。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/one-lane-passing-place.jpg",
+            "choices": [
+                "將車開到右側的路肩上并繼續行駛，以留出空間讓對方超車。",
+                "保持當前的車速，繼續在路中央行駛，不用理會對方。",
+                "把車駛入最近的避讓區停下來，讓對方超車。",
+                "繼續行駛，如果對方跟得太緊就突然踩剎車來提醒對方。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-155-zh.html"
+        },
+        {
+            "questionPK": "8oj587p",
+            "question": "當你駕車準備匯入高速公路上的車流時，怎麼做才是最安全的？",
+            "answer": "等到有足夠的空間時再匯入車流。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/merge_into_free_way.jpg",
+            "choices": [
+                "等到有足夠的空間時再匯入車流。",
+                "先在路肩上行駛，然後在找機會匯入車流。",
+                "緩慢駛入最近的車道，迫使其他司機為你留出空間。",
+                "停在路肩上，打開轉向燈并不停鳴笛以便提醒其他司機為你留出空間。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-156-zh.html"
+        },
+        {
+            "questionPK": "vxw8xwr",
+            "question": "駕駛中突然遭遇大雨，你應該如何應對？",
+            "answer": "加大與前車之間的距離，因為路面濕滑可能會影響剎車。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/driving_in_heavy_rain.jpg",
+            "choices": [
+                "繼續遵循保持“兩秒”跟車距離的原則不變。",
+                "加大與前車之間的距離，因為路面濕滑可能會影響剎車。",
+                "緊跟前車。",
+                "盡可能超越前車以離開當前的路段，因為雨天很容易堵車。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-157-zh.html"
+        },
+        {
+            "questionPK": "pznqdkz",
+            "question": "車禍發生的瞬間，方向盤部分彈出的安全氣囊有可能對司機造成傷害，因此正確的做法是：",
+            "answer": "司機和方向盤之間應該留有10英寸的距离。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/safe_airbags.jpg",
+            "choices": [
+                "司機的頭部應該時刻位於方向盤的上方。",
+                "司機和方向盤之間應該留有6.5英寸的距離。",
+                "司機和方向盤之間應該留有10英寸的距离。",
+                "司機和方向盤之間應該留有20英寸的距离。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-158-zh.html"
+        },
+        {
+            "questionPK": "6swarev",
+            "question": "與輕軌車輛共用車道時應該注意什麼？",
+            "answer": "注意瞭望沿途的各種交通信號燈和指示牌，因為它們可能會因為輕軌車輛而改變原有的工作方式。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/street_car_california.jpg",
+            "choices": [
+                "不能在緊挨著輕軌車輛的車道上行駛。",
+                "車速不能超過輕軌車輛。",
+                "注意瞭望沿途的各種交通信號燈和指示牌，因為它們可能會因為輕軌車輛而改變原有的工作方式。",
+                "車上的乘客（含司機在內）不能超過3個人，否則會被警察開罰單。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-159-zh.html"
+        },
+        {
+            "questionPK": "oapb2qh",
+            "question": "開車時應該時刻留心路上有沒有騎自行車的人，這是因為：",
+            "answer": "他們可能位於你車子的盲點上。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/bicycle_blind_spot.jpg",
+            "choices": [
+                "他們可能位於你車子的盲點上。",
+                "他們通常擁有先行權。",
+                "他們經常會突然加速。",
+                "他們會經常切換車道。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-160-zh.html"
+        },
+        {
+            "questionPK": "ux6sehc",
+            "question": "如果你在高速公路上最左邊的車道上以低於其它車流的速度行駛，將導致：",
+            "answer": "會激怒其它的駕駛者。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/free_way_left_lane.jpg",
+            "choices": [
+                "會激怒其它的駕駛者。",
+                "會收到警察開出的罰單。",
+                "會給其它喜歡超速的司機做出正面的榜樣。",
+                "緊急車輛無法通行。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-161-zh.html"
+        },
+        {
+            "questionPK": "4bijy9c",
+            "question": "在駛入高速公路時，應該如何查看交通情況？",
+            "answer": "查看車內和車外的後視鏡，並回頭查看車流狀況。",
+            "questionImageUrl": null,
+            "choices": [
+                "轉頭過肩向後看。",
+                "查看車內和車外的後視鏡，並回頭查看車流狀況。",
+                "只需查看車內後視鏡。",
+                "將注意力集中在正前方的路況上。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-162-zh.html"
+        },
+        {
+            "questionPK": "ze49u6p",
+            "question": "下面的哪一个標誌告訴你前方有鐵道路口。",
+            "answer": "B",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/297de985ac8ea444f12d2cdc037786ea.gif",
+            "choices": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-163-zh.html"
+        },
+        {
+            "questionPK": "po9nd56",
+            "question": "下面的哪一个標誌告訴你做好停車的準備。",
+            "answer": "C",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/241b689a531b52db7d1bfe3018609cc6.gif",
+            "choices": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-164-zh.html"
+        },
+        {
+            "questionPK": "qjcp4ss",
+            "question": "下面的哪一个標誌告訴你前方路段已被水淹沒。",
+            "answer": "C",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/9fead653b470c483eac689f87614dcc7.gif",
+            "choices": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-165-zh.html"
+        },
+        {
+            "questionPK": "5w5jgu2",
+            "question": "下面的哪一个標誌告訴你要減速行駛。",
+            "answer": "A",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/73cca58d915ec3a1344a7bc15c36b74c.gif",
+            "choices": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-166-zh.html"
+        },
+        {
+            "questionPK": "dgdi45n",
+            "question": "下面的哪一个標誌告訴你前方要繞道行駛。",
+            "answer": "B",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/94b33779619b11e2c61930da736446f5.gif",
+            "choices": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-167-zh.html"
+        },
+        {
+            "questionPK": "u4t9nhh",
+            "question": "下面的哪一个標誌提醒你前面必須停車。",
+            "answer": "B",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/5d421db081fc5f27f777a9a3048aba71.gif",
+            "choices": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-168-zh.html"
+        },
+        {
+            "questionPK": "sxk9ihl",
+            "question": "下面的哪一个標誌告訴你如果你的車速較慢，則必須讓快車先行。",
+            "answer": "B",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/ff661634735d9bed13f952cbdcbe0714.gif",
+            "choices": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-169-zh.html"
+        },
+        {
+            "questionPK": "8jbpqyk",
+            "question": "下面的哪一个標誌告訴你前方路段正在施工。",
+            "answer": "C",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/5141444f55d9fa07b41c6bd30cac9f6b.gif",
+            "choices": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-170-zh.html"
+        },
+        {
+            "questionPK": "2o8tdr1",
+            "question": "下面的哪一个標誌告訴你前方路面上即將出現多條鐵軌。",
+            "answer": "C",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/47b4608171b64a2b0e97f7c0d33e4d07.gif",
+            "choices": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-171-zh.html"
+        },
+        {
+            "questionPK": "3lgni8k",
+            "question": "下面的哪一个標誌告訴你當前路段上不准向任何方向轉彎。",
+            "answer": "B",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/787d1bc2b3e33de33025f7eb4168e894.gif",
+            "choices": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-172-zh.html"
+        },
+        {
+            "questionPK": "dgyal89",
+            "question": "下面的哪一个標誌告訴你要留意附近有學生橫穿街道。",
+            "answer": "B",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/669e119976f03ab0655fd54d719bb1fe.gif",
+            "choices": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-173-zh.html"
+        },
+        {
+            "questionPK": "9a60i41",
+            "question": "下面的哪一个標誌告訴你前方路段可能有砂石滾落？",
+            "answer": "C",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/3080afffc83cb075bf1c58b6352ab9b2.gif",
+            "choices": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-174-zh.html"
+        },
+        {
+            "questionPK": "3o4otam",
+            "question": "下面的哪一个標誌告訴你持續在右邊車道行駛的車輛必須在出口處駛離公路？",
+            "answer": "B",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/686aa803cc5baff90d6291659252d963.gif",
+            "choices": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-175-zh.html"
+        },
+        {
+            "questionPK": "895ulxh",
+            "question": "下面的哪一个標誌告訴你前面有窄橋？",
+            "answer": "A",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/57f988072fa3ff15b9ddc7e2119e624f.gif",
+            "choices": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-176-zh.html"
+        },
+        {
+            "questionPK": "it05ufv",
+            "question": "下面的哪一个標誌是針對慢行車輛的提示？",
+            "answer": "B",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/847f415f0e678e497348534d253491cc.gif",
+            "choices": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-177-zh.html"
+        },
+        {
+            "questionPK": "xu3h5um",
+            "question": "下面的哪一个標誌告訴你前面有用於超車的車道？",
+            "answer": "C",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/b1661c4b25a22edffbaeb7a3a4a0ed4c.gif",
+            "choices": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-178-zh.html"
+        },
+        {
+            "questionPK": "33qauid",
+            "question": "下面的哪一个標誌告訴你紅燈時不能轉彎？",
+            "answer": "A",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/8a477fd5dd8046cec3e4425baa702cdc.gif",
+            "choices": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-179-zh.html"
+        },
+        {
+            "questionPK": "32qo326",
+            "question": "下面的哪一个標誌告訴你前面有十字路口？",
+            "answer": "C",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/4eea52feb6b8d5b471fbbc9494340c33.gif",
+            "choices": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-180-zh.html"
+        },
+        {
+            "questionPK": "h02hwax",
+            "question": "下面的哪一个標誌告訴你前面的道路正在施工？",
+            "answer": "D",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/yxigs.png",
+            "choices": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-181-zh.html"
+        },
+        {
+            "questionPK": "8b0zui9",
+            "question": "下面的哪一个標誌告訴你前面的道路關閉了？",
+            "answer": "C",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/989549e8873612c5c232a88c22235523.gif",
+            "choices": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-182-zh.html"
+        },
+        {
+            "questionPK": "74t1x3c",
+            "question": "下面的哪一个標誌告訴你道路在前方開始左轉？",
+            "answer": "A",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/8a74128350ca8a0662260e1ec5a4f404.gif",
+            "choices": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-183-zh.html"
+        },
+        {
+            "questionPK": "63m7my7",
+            "question": "下面的哪一个標誌告訴你前面有交通信號燈？",
+            "answer": "A",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/eb2c7d6123827dacfeed8da159dfc778.gif",
+            "choices": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-184-zh.html"
+        },
+        {
+            "questionPK": "dot72f5",
+            "question": "下面的哪一个標誌告訴你附近可能有學生橫過街道？",
+            "answer": "B",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/ec79676263e2c0457f7a31299a4e82ef.gif",
+            "choices": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-185-zh.html"
+        },
+        {
+            "questionPK": "eaob5rx",
+            "question": "下面的哪一个標誌告訴你當前路口禁止任何方向的轉彎操作？",
+            "answer": "A",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/b316545220fdea5407b99e3766595496.gif",
+            "choices": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-186-zh.html"
+        },
+        {
+            "questionPK": "k8gdxno",
+            "question": "下面的哪一个標誌告訴你前方不遠處的道路正在施工？",
+            "answer": "A",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/90ebbc58d9c79bb0f72dd47621ef04f9.gif",
+            "choices": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-187-zh.html"
+        },
+        {
+            "questionPK": "qnslj88",
+            "question": "下面的哪一个標誌表示如果你繼續保持在最右側的車道上行駛，那麼在前方必須右轉彎。",
+            "answer": "C",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/ea260bb8c14bc2e1acfdaf8f634d6eca.gif",
+            "choices": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-188-zh.html"
+        },
+        {
+            "questionPK": "tw3nub0",
+            "question": "作為一個年滿21周歲的司機來說，你體內的酒精含量不能超過多少？",
+            "answer": "0.08%",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/bac-test.jpg",
+            "choices": [
+                "0.80%",
+                "0.08%",
+                "0.05%",
+                "0.10%"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-189-zh.html"
+        },
+        {
+            "questionPK": "1g0hy0i",
+            "question": "一輛時速55英里大卡車在剎車時所需的距離是普通車輛的多少倍？",
+            "answer": "2倍",
+            "questionImageUrl": null,
+            "choices": [
+                "无差别",
+                "2倍",
+                "3倍",
+                "5倍"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-190-zh.html"
+        },
+        {
+            "questionPK": "067j8qy",
+            "question": "駕車時如果遭遇大霧或大雨，安全起見應該使用哪種車燈？",
+            "answer": "打開前大燈",
+            "questionImageUrl": null,
+            "choices": [
+                "打開緊急車輛信號燈",
+                "打開雙閃燈",
+                "打開前大燈",
+                "打開車內照明燈"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-191-zh.html"
+        },
+        {
+            "questionPK": "mnwiv6i",
+            "question": "行車到路口時看到信號燈已經變成紅色，但此時一位警察或消防隊員指示您繼續前進；應該如何處理？",
+            "answer": "遵從對方的指揮。",
+            "questionImageUrl": null,
+            "choices": [
+                "忽視對方的指揮，等待信號燈變成綠色。",
+                "遵從對方的指揮。",
+                "迅速開車到路邊并關閉發動機。",
+                "原地停車并打開雙閃燈。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-192-zh.html"
+        },
+        {
+            "questionPK": "bkqbtwp",
+            "question": "為什麼有些路段的路牙上會塗有不同的顏色？",
+            "answer": "不同的顏色表示僅供不同的車輛停靠，或者在不同的時間段有著不同的停車時間限制。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/colorful-curb.jpg",
+            "choices": [
+                "表示該路段任何情況下都不能停車。",
+                "表示該路段僅供自行車停靠。",
+                "不同的顏色表示僅供不同的車輛停靠，或者在不同的時間段有著不同的停車時間限制。",
+                "表示該路段即將進行施工。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-193-zh.html"
+        },
+        {
+            "questionPK": "9xoqy04",
+            "question": "在路口看到停牌標誌時，你應該在什麼位置上停車？",
+            "answer": "在人行橫道線之前。",
+            "questionImageUrl": null,
+            "choices": [
+                "距離人行橫道線5英尺處。",
+                "在視線足夠寬闊到可以看清左右來往車流的地方。",
+                "在人行橫道線之前。",
+                "路口中央。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-194-zh.html"
+        },
+        {
+            "questionPK": "3kcefmd",
+            "question": "如果遭遇車禍並且其中一方的車輛所受損失超過$500，此種情況下有必要向 DMV 提出意外報告(SR1)嗎？",
+            "answer": "必須向 DMV 進行報告。",
+            "questionImageUrl": null,
+            "choices": [
+                "並非必要，除非肇事的責任方是你。",
+                "必須向 DMV 進行報告。",
+                "並非必要，除非有人受傷或死亡。",
+                "並非必要，除非其中一方的司機沒有購買保險。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-195-zh.html"
+        },
+        {
+            "questionPK": "2n025pp",
+            "question": "為什麼要正確系好安全帶？",
+            "answer": "這是加州法律的規定。",
+            "questionImageUrl": null,
+            "choices": [
+                "只有年齡不滿16周歲的青少年才需要安全帶。",
+                "這是加州法律的規定。",
+                "為了防止車禍的發生。",
+                "有助於緩解司機的腰部疲勞。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-196-zh.html"
+        },
+        {
+            "questionPK": "9g8amc7",
+            "question": "駕駛中如果需要切換車道時，為了確保安全，你應該怎麼做？",
+            "answer": "轉頭過肩來觀察車身的盲點處是否有其它車輛。",
+            "questionImageUrl": null,
+            "choices": [
+                "轉頭過肩來觀察車身的盲點處是否有其它車輛。",
+                "仔細觀察左側反光鏡。",
+                "仔細觀察右側反光鏡。",
+                "仔細觀察後視鏡。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-197-zh.html"
+        },
+        {
+            "questionPK": "km02tdi",
+            "question": "如果你被警察抓到從車內向外亂扔垃圾而受罰，這一污點是否會被記入你的駕駛檔案呢？",
+            "answer": "會﹐不管你多大年齡。",
+            "questionImageUrl": null,
+            "choices": [
+                "會，如果你未滿18周歲。",
+                "會﹐不管你多大年齡。",
+                "不會，根本沒有這樣的法律規定。",
+                "不會，除非你年滿18周歲。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-198-zh.html"
+        },
+        {
+            "questionPK": "ji2izl2",
+            "question": "如果你和其他車輛同時抵達一個沒有交通信號燈或停牌標誌的路口時，誰有優先權？",
+            "answer": "位於你右側的車輛",
+            "questionImageUrl": null,
+            "choices": [
+                "位於你右側的車輛",
+                "位於你左側的車輛",
+                "位於你對面的車輛",
+                "體積較大的車輛"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-199-zh.html"
+        },
+        {
+            "questionPK": "pl0er0g",
+            "question": "根據“默示同意（Implied consent）”法則，每名司機已同意在下述情況下接受血液酒精濃度檢驗﹕",
+            "answer": "在加州境內駕車的任何時候。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/bac-test.jpg",
+            "choices": [
+                "在加州境內駕車的任何時候。",
+                "經律師同意的情況下。",
+                "因身體原因不方便開口說話時。",
+                "發生車禍時。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-200-zh.html"
+        },
+        {
+            "questionPK": "ie29ye6",
+            "question": "什麼情況下，橫穿街道的行人擁有優先權？",
+            "answer": "無論街道上是否劃有人行橫道線，行人都有優先權。",
+            "questionImageUrl": null,
+            "choices": [
+                "僅在街道上劃有人行橫道線的情況下。",
+                "僅在路口的信號燈工作正常的情況下。",
+                "無論街道上是否劃有人行橫道線，行人都有優先權。",
+                "僅在夜間視線不清楚的情況下。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-201-zh.html"
+        },
+        {
+            "questionPK": "aveugim",
+            "question": "出於安全駕駛的考慮，司機在行駛中應該注意瞭望前方多遠處的路況？",
+            "answer": "當前車速下，10-15秒鐘的行車距離。",
+            "questionImageUrl": null,
+            "choices": [
+                "當前車速下，4-5秒鐘的行車距離。",
+                "當前車速下，6-8秒鐘的行車距離。",
+                "當前車速下，10-15秒鐘的行車距離。",
+                "當前車速下，60秒鐘的行車距離。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-202-zh.html"
+        },
+        {
+            "questionPK": "2f4atg2",
+            "question": "在學校附近駕駛時，除非有更低的限速標誌，否則你的車速不得超過多少？",
+            "answer": "25英里/h",
+            "questionImageUrl": null,
+            "choices": [
+                "15英里/h",
+                "20英里/h",
+                "25英里/h",
+                "60英里/h"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-203-zh.html"
+        },
+        {
+            "questionPK": "16ir5oa",
+            "question": "駛近鐵路道口時，看見道口的信號燈正在閃爍，你應該怎麼做？",
+            "answer": "停車等候，直到信號燈熄滅后再繼續行駛。",
+            "questionImageUrl": null,
+            "choices": [
+                "加速穿過道口。",
+                "停車等候，直到信號燈熄滅后再繼續行駛。",
+                "先減速瞭望，然後再穿過道口。",
+                "先停車瞭望，然後再穿過道口。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-204-zh.html"
+        },
+        {
+            "questionPK": "7wcg1y9",
+            "question": "駕駛中準備轉彎時，為了避免被後面的車追尾，安全的做法是：",
+            "answer": "在轉彎前至少100英尺處打開轉向燈。",
+            "questionImageUrl": null,
+            "choices": [
+                "持續的按喇叭來提醒後面的司機。",
+                "在轉彎前至少100英尺處打開轉向燈。",
+                "在轉彎前至少200英尺處打開“雙閃燈”（緊急訊號燈）",
+                "在轉彎前先停車幾秒鐘，然後再轉彎。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-205-zh.html"
+        },
+        {
+            "questionPK": "duhtrmw",
+            "question": "如果沒有其它的限速標誌，在商業區駕駛時車速應該控制在：",
+            "answer": "25英里/h",
+            "questionImageUrl": null,
+            "choices": [
+                "20英里/h",
+                "25英里/h",
+                "30英里/h",
+                "60英里/h"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-206-zh.html"
+        },
+        {
+            "questionPK": "1exdv9j",
+            "question": "駕車來到路口時，發現紅色信號燈一直在閃爍，這表示什麼？",
+            "answer": "進入路口前要停車，確認安全后再繼續行駛。",
+            "questionImageUrl": null,
+            "choices": [
+                "進入路口前要減速。",
+                "進入路口前要停車，確認安全后再繼續行駛。",
+                "停車等候，直到綠燈亮起。",
+                "紅燈閃爍等同於綠燈，可以繼續前進。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-207-zh.html"
+        },
+        {
+            "questionPK": "vq271i6",
+            "question": "如果你車子的方向盤配有鎖定裝置，那麼是否可以在駕駛中關閉發動機？",
+            "answer": "不可以，這會導致方向盤被瑣死，另司機無法發操作車輛。",
+            "questionImageUrl": null,
+            "choices": [
+                "不可以，這會導致方向盤被瑣死，另司機無法發操作車輛。",
+                "不可以，除非是在走下坡路的時候。",
+                "可以，但是這會導致剎車時出現打滑現象。",
+                "可以，但僅限於部分品牌的高端車型。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-208-zh.html"
+        },
+        {
+            "questionPK": "muc1jgu",
+            "question": "你與前面車輛的距離已經很近的情況下，突然又有一輛車想要插到你前面；這種情況應該如何應對？",
+            "answer": "鬆開油門減速。",
+            "questionImageUrl": null,
+            "choices": [
+                "猛踩剎車。",
+                "立刻變換到其它車道。",
+                "鬆開油門減速。",
+                "加速前進，不給對方留下空間。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-209-zh.html"
+        },
+        {
+            "questionPK": "wqksyvn",
+            "question": "什麼情況下你可以跨越道路中央的雙線進行超車？",
+            "answer": "靠近你這一側是虛線的時候。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/double_line_dash_line.jpg",
+            "choices": [
+                "靠近你這一側是虛線的時候。",
+                "靠近你這一側是黃色實線的時候。",
+                "兩條白色實線的時候。",
+                "任何時候都不能這麼做。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-210-zh.html"
+        },
+        {
+            "questionPK": "ze16h97",
+            "question": "很多司機在經過車禍現場時都喜歡減速看熱鬧，這種行為：",
+            "answer": "會令事故現場周圍的交通阻塞更加嚴重，甚至導致其它事故的發生。",
+            "questionImageUrl": null,
+            "choices": [
+                "有助於幫助趕來的救護車確定事故現場位置。",
+                "會令事故現場周圍的交通阻塞更加嚴重，甚至導致其它事故的發生。",
+                "有助於大家提高安全意識，是一種很好的公共教育手段。",
+                "是一種違反交通法的行為，警察可以對當事人開出罰單。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-211-zh.html"
+        },
+        {
+            "questionPK": "5xpxdg7",
+            "question": "如果你車內有一位年滿16周歲的乘客沒有系安全帶，作為司機的你是否會因此而被警察處罰？",
+            "answer": "是的，因為你有責任督促該乘客係好安全帶。",
+            "questionImageUrl": null,
+            "choices": [
+                "是的，因為你有責任督促該乘客係好安全帶。",
+                "是的，但僅限於該乘客坐在前排時。",
+                "不會的，因為安全帶是否有助於在發生車禍時降低傷亡率還存在爭議。",
+                "不會的，這是該乘客自己的責任。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-212-zh.html"
+        },
+        {
+            "questionPK": "d2oid9y",
+            "question": "什麼情況下可在輕型卡車的後面搭載乘客？",
+            "answer": "當該車在後面裝有座椅和安全帶系統時。",
+            "questionImageUrl": null,
+            "choices": [
+                "當該車在後面裝有座椅和安全帶系統時。",
+                "當該車的高度超過24英寸時。",
+                "當該車是農用車輛時。",
+                "當該車是軍用車輛時。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-213-zh.html"
+        },
+        {
+            "questionPK": "7drlsdw",
+            "question": "如果你的駕照上註明了你開車時必須佩戴矯正性鏡片，那麼你是否可以在丟失眼鏡的情況下開車呢？",
+            "answer": "不可以，沒有找到眼鏡前你不能開車。",
+            "questionImageUrl": null,
+            "choices": [
+                "可以，但僅限於在你熟悉的路段上駕駛。",
+                "不可以，沒有找到眼鏡前你不能開車。",
+                "可以，但僅限於在緊急情況下。",
+                "可以，如果你的近視程度比較低。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-214-zh.html"
+        },
+        {
+            "questionPK": "s4awct4",
+            "question": "如果因為你停車不當，導致你的車子在滑動過程中撞到別人的車，正確的處理辦法是：",
+            "answer": "你需要聯繫對方車主，並且向當地的執法機構或 CHP 提交書面報告。",
+            "questionImageUrl": null,
+            "choices": [
+                "你只要和自己的保險公司報告一下就行了。",
+                "你需要聯繫對方車主，並且向當地的執法機構或 CHP 提交書面報告。",
+                "你應該負責將對方車輛拖到修車行修理。",
+                "如果對方車輛的損傷不大則不用理會。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-215-zh.html"
+        },
+        {
+            "questionPK": "ob9hp9u",
+            "question": "下列關於不同的路牙顏色所代表的含義的描述中，哪一項是正確的？",
+            "answer": "黃色 - 僅供裝卸貨物或搭載乘客時使用。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/colorful-curb.jpg",
+            "choices": [
+                "藍色 - 禁止任何人泊車。",
+                "黃色 - 僅供裝卸貨物或搭載乘客時使用。",
+                "紅色 - 僅供公共汽車使用。",
+                "黑色 - 僅供施工車輛使用。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-216-zh.html"
+        },
+        {
+            "questionPK": "rgjpk7j",
+            "question": "一輛停下的校巴上閃爍著紅燈是什麼意思？",
+            "answer": "根據法律規定，在校巴的紅燈閃爍期間，所有車輛必須一直停車等待。",
+            "questionImageUrl": null,
+            "choices": [
+                "提醒其他司機要先停車，確認安全后再從校巴旁邊駛過。",
+                "根據法律規定，在校巴的紅燈閃爍期間，所有車輛必須一直停車等待。",
+                "這輛校巴車發生故障了，正在等候救援。",
+                "如果此時沒有學生上下校巴車，則司機可以從校巴旁邊駛過。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-217-zh.html"
+        },
+        {
+            "questionPK": "g347uls",
+            "question": "在城郊附近限速很低的路段上駕駛時是否依然需要系上安全帶？",
+            "answer": "是的，根據法律規定只要在公路上駕駛就必須系好安全帶。",
+            "questionImageUrl": null,
+            "choices": [
+                "不需要，因為車速不快時安全帶沒有效果。",
+                "是的，根據法律規定只要在公路上駕駛就必須系好安全帶。",
+                "不需要，只有在市區內駕駛才需要安全帶。",
+                "不需要，除非駕駛員未滿16周歲才需要系好安全帶。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-218-zh.html"
+        },
+        {
+            "questionPK": "1fuz0g6",
+            "question": "如何理解「駕車時向前看」這句話的意思？",
+            "answer": "司機要觀察路上所有的情況。",
+            "questionImageUrl": null,
+            "choices": [
+                "司機要觀察正前方的道路走向。",
+                "司機要觀察前面離自己最近的那一輛車的情況。",
+                "司機要觀察路上所有的情況。",
+                "司機在駕駛中不能回頭看。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-219-zh.html"
+        },
+        {
+            "questionPK": "c1nkeyh",
+            "question": "根據加州的法律規定，除非有其它的限速標誌，否則在住宅區駕車的限速是多少？",
+            "answer": "時速25英裏",
+            "questionImageUrl": null,
+            "choices": [
+                "時速30英裏",
+                "時速25英裏",
+                "時速20英裏",
+                "時速50英裏"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-220-zh.html"
+        },
+        {
+            "questionPK": "2hnvlbf",
+            "question": "作為司機，能否在上下班的交通高峰期堵塞十字路口？",
+            "answer": "這是絕對不允許的。",
+            "questionImageUrl": null,
+            "choices": [
+                "可以，但前提是你有路權。",
+                "可以，如果你已經連續等了兩次紅燈了。",
+                "這是絕對不允許的。",
+                "可以，但僅限於你駕駛的是大型卡車。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-221-zh.html"
+        },
+        {
+            "questionPK": "5kaj9b4",
+            "question": "關於路面上的雙實線標記，下列描述中的哪一條是錯誤的？",
+            "answer": "你可以在雙向行駛的道路上越過雙實線來超車。",
+            "questionImageUrl": null,
+            "choices": [
+                "任何情況下你都不能越過雙實線。",
+                "你不能越過雙實線向左轉彎。",
+                "你不能越過雙實線向右轉彎。",
+                "你可以在雙向行駛的道路上越過雙實線來超車。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-222-zh.html"
+        },
+        {
+            "questionPK": "w5g5fjn",
+            "question": "在一個沒有行人橫道線的交叉路口處誰有路權？",
+            "answer": "行人。",
+            "questionImageUrl": null,
+            "choices": [
+                "機動車。",
+                "行人。",
+                "老人。",
+                "自行車。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-223-zh.html"
+        },
+        {
+            "questionPK": "7lgexs9",
+            "question": "當一名司機屢次被判違反了交通法規的後果是：",
+            "answer": "DMV 將吊銷該司機的駕照。",
+            "questionImageUrl": null,
+            "choices": [
+                "DMV 將吊銷該司機的車主證。",
+                "DMV 將吊銷該司機的駕照。",
+                "只會被處以高額罰款。",
+                "將被終身禁止在加州境內開車。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-224-zh.html"
+        },
+        {
+            "questionPK": "5edp27l",
+            "question": "如果位於你前面的車子在人行橫道線前停下了，你應該：",
+            "answer": "停車耐心等候。",
+            "questionImageUrl": null,
+            "choices": [
+                "輕按幾下喇叭，告訴前面的司機你在等他。",
+                "停車耐心等候。",
+                "切換到另外的車道上超過它。",
+                "不停按喇叭催促對方。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-225-zh.html"
+        },
+        {
+            "questionPK": "0j1q9mr",
+            "question": "當你從停車位上倒車出來時應該如何觀察周圍的情況？",
+            "answer": "將頭轉過肩膀進行觀察。",
+            "questionImageUrl": null,
+            "choices": [
+                "通過車內後視鏡進行觀察。",
+                "通過左側反光鏡進行觀察。",
+                "將頭轉過肩膀進行觀察。",
+                "通過車內的倒車影像裝置進行觀察。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-226-zh.html"
+        },
+        {
+            "questionPK": "5zazmvg",
+            "question": "你緊靠著自行車專用道行駛，此時如果想要右轉彎的話應該如何操作？",
+            "answer": "提前200英呎打轉向燈，確認盲點處沒有騎車的人后進入自行車道，然後轉彎。",
+            "questionImageUrl": null,
+            "choices": [
+                "提前200英呎打轉向燈，確認盲點處沒有騎車的人后進入自行車道，然後轉彎。",
+                "打轉向燈，確認盲點處沒有騎車的人后再轉彎，但要注意不能進入自行車道。",
+                "如果有人騎車就加速超過他們，然後迅速轉彎。",
+                "到達路口后先停車并打轉向燈，確認沒有人騎車后再轉彎。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-227-zh.html"
+        },
+        {
+            "questionPK": "q6mzphi",
+            "question": "什麼情況下你可以合法的駕車繞過鐵路道口的欄杆？",
+            "answer": "任何時候都不行。",
+            "questionImageUrl": null,
+            "choices": [
+                "如果火車在到達道口之前就停下了。",
+                "如果欄杆失靈沒有落下。",
+                "任何時候都不行。",
+                "如果可以清楚的看到火車距離道口還有很遠。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-228-zh.html"
+        },
+        {
+            "questionPK": "deo6yw1",
+            "question": "如果你不確定應該在何時打開車輛的前燈，那麼最佳的做法是：",
+            "answer": "只要覺得看不清其它車輛時就要打開前燈。",
+            "questionImageUrl": null,
+            "choices": [
+                "只要覺得看不清其它車輛時就要打開前燈。",
+                "不要在夜裡開車上路。",
+                "盡量走小路來避開警察。",
+                "如果下雨了就要打開前燈。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-229-zh.html"
+        },
+        {
+            "questionPK": "hkxskfv",
+            "question": "如果你想在一條單行道上左轉彎進入另一條單行道，應該怎麼做？",
+            "answer": "先切換到最左邊的車道上（多條車道時）或盡量靠近路左邊（僅單車道），然後再轉彎。",
+            "questionImageUrl": null,
+            "choices": [
+                "先切換到最左邊的車道上（多條車道時）或盡量靠近路左邊（僅單車道），然後再轉彎。",
+                "只要先打轉向燈就可以隨時轉彎。",
+                "先切換到最右邊的車道上（多條車道時）或盡量靠近路右邊（僅單車道），然後再轉彎。",
+                "法律禁止在這種情況下轉彎。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-230-zh.html"
+        },
+        {
+            "questionPK": "hmkljz7",
+            "question": "在有停牌標誌的路口停車時，車子應該停在哪裡？",
+            "answer": "在人行橫道線前。",
+            "questionImageUrl": null,
+            "choices": [
+                "越過人行橫道線后。",
+                "在可以清楚看到兩邊來往車輛的地方。",
+                "在人行橫道線前。",
+                "距離停牌標誌25英呎處。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-231-zh.html"
+        },
+        {
+            "questionPK": "2mm8ils",
+            "question": "下列中的哪一類人不能算作「行人」?",
+            "answer": "騎電動自行車的人。",
+            "questionImageUrl": null,
+            "choices": [
+                "牽著導盲犬的人。",
+                "坐著電動輪椅的殘疾人。",
+                "騎電動自行車的人。",
+                "踩滑板的人。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-232-zh.html"
+        },
+        {
+            "questionPK": "w35cmho",
+            "question": "塗上紅色的路邊石表示在這裡停車是：",
+            "answer": "不允許的，除非是公交車。",
+            "questionImageUrl": null,
+            "choices": [
+                "不允許的，除非是公交車。",
+                "可以的，但僅限於救護車。",
+                "可以的，但僅限於出租車。",
+                "可以的，但僅限於消防車。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-233-zh.html"
+        },
+        {
+            "questionPK": "a0l2b49",
+            "question": "什麼情況下路面最濕滑？",
+            "answer": "長期幹旱後開始下雨時。",
+            "questionImageUrl": null,
+            "choices": [
+                "暴風雨時。",
+                "下小雨時。",
+                "長期幹旱後開始下雨時。",
+                "大霧天時。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-234-zh.html"
+        },
+        {
+            "questionPK": "6r9d6b8",
+            "question": "以下哪一項措施最有利於交通狀況的改善？",
+            "answer": "發展公共交通。",
+            "questionImageUrl": null,
+            "choices": [
+                "發展公共交通。",
+                "鼓勵小排量汽車。",
+                "駕駛時盡可能不要變換車道。",
+                "杜絕酒後駕駛。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-235-zh.html"
+        },
+        {
+            "questionPK": "tmo639k",
+            "question": "下列地點中的哪一個是絕對不允許停車的？",
+            "answer": "殘疾人停車位旁邊劃有白色斜線或交叉線的區域。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/disabled-parking-space.jpg",
+            "choices": [
+                "坡道上。",
+                "殘疾人停車位旁邊劃有白色斜線或交叉線的區域。",
+                "距離鐵軌二十英尺處。",
+                "私人住宅旁邊。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-236-zh.html"
+        },
+        {
+            "questionPK": "n7m7oco",
+            "question": "當您在校區附近行駛並且在附近看到兒童時，除非看到有更低的限速標誌，否則你的車速不得超過：",
+            "answer": "25 miles/h",
+            "questionImageUrl": null,
+            "choices": [
+                "20 miles/h",
+                "25 miles/h",
+                "30 miles/h",
+                "50 miles/h"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-237-zh.html"
+        },
+        {
+            "questionPK": "tuu97am",
+            "question": "據美國加州車輛管理局統計，在所有致命車禍中，涉及酒後駕駛司機的大約占多少比例？",
+            "answer": "60%",
+            "questionImageUrl": null,
+            "choices": [
+                "40%",
+                "60%",
+                "85%",
+                "90%"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-238-zh.html"
+        },
+        {
+            "questionPK": "2j1tn7x",
+            "question": "在高速公路上切換車道時，你的車速應該保持在：",
+            "answer": "基本同高速公路的交通限速一致。",
+            "questionImageUrl": null,
+            "choices": [
+                "基本同高速公路的交通限速一致。",
+                "比高速公路的限速慢10英裏。",
+                "比高速公路的限速快5英裏。",
+                "沒有標準，根據當時的路況決定。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-239-zh.html"
+        },
+        {
+            "questionPK": "x1wnl9w",
+            "question": "什麼是「盲」交叉路口，即 blind intersection？",
+            "answer": "指一個路口沒有停牌標誌，而且因為樹木或地形的遮擋令你無法在距離該路口100英呎時看清任何一個方向上100英呎遠處的路況。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/blind-intersection.jpg",
+            "choices": [
+                "在該路口附近經常有盲人出現。",
+                "指一個路口沒有停牌標誌，而且因為樹木或地形的遮擋令你無法在距離該路口100英呎時看清任何一個方向上100英呎遠處的路況。",
+                "指一個路口沒有停牌標誌，導致交通事故頻發。",
+                "指一個路口沒有交通信號燈，而且也沒有警察在現場指揮。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-240-zh.html"
+        },
+        {
+            "questionPK": "pjjqjcm",
+            "question": "為了在長途駕車旅行時保持清醒，除了提高警覺和注意休息外，還可以：",
+            "answer": "打開車窗讓新鮮空氣吹進來。",
+            "questionImageUrl": null,
+            "choices": [
+                "打開車窗讓新鮮空氣吹進來。",
+                "經常變換車道。",
+                "以較低的速度行駛。",
+                "在法律允許的範圍內稍稍喝一點酒。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-241-zh.html"
+        },
+        {
+            "questionPK": "fvzac5a",
+            "question": "下列觀察路況的方式中，哪一種更安全？",
+            "answer": "對整個前方的路況進行掃視。",
+            "questionImageUrl": null,
+            "choices": [
+                "將目光集中在車內的反光鏡上。",
+                "將目光集中在前方的車輛尾部。",
+                "對整個前方的路況進行掃視。",
+                "將目光集中在兩側的後視鏡上。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-242-zh.html"
+        },
+        {
+            "questionPK": "p4n8yfr",
+            "question": "什麼情況下你可以在塗成白色的路邊石旁邊停車？",
+            "answer": "如果只是讓乘客上下車或短時間內取送郵件",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/white-curb.jpg",
+            "choices": [
+                "只有公共汽車才可以",
+                "只有救急車輛或警車才可以",
+                "如果只是讓乘客上下車或短時間內取送郵件",
+                "如果停車時間不超過1小時"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-243-zh.html"
+        },
+        {
+            "questionPK": "43s4tm5",
+            "question": "什麼情況下你的車速可以超過時速65英里？",
+            "answer": "在高速公路上",
+            "questionImageUrl": null,
+            "choices": [
+                "任何時候都不可以",
+                "當周圍的其它車輛都以很快的速度行駛時",
+                "在高速公路上",
+                "在夜晚的鄉間小路上"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-244-zh.html"
+        },
+        {
+            "questionPK": "zf2vqvw",
+            "question": "什麼是加州的「基本速度法例（Basic Speed Law）」？",
+            "answer": "你的車速是否安全取決於當時的道路、交通和天氣情況。比如在大霧天里，如果你在一段限速為55mph的路段以45mph的車速行駛，也有可能被控超速。",
+            "questionImageUrl": null,
+            "choices": [
+                "你的車速是否安全取決於當時的道路、交通和天氣情況。比如在大霧天里，如果你在一段限速為55mph的路段以45mph的車速行駛，也有可能被控超速。",
+                "當你在高速公路上行駛時，車速不能低於最高限速10mph，否則將被控罪。",
+                "根據加州法律規定，當你行駛到一個有信號燈的路口時必須突然減速。",
+                "加州根本沒有這樣的法律。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-245-zh.html"
+        },
+        {
+            "questionPK": "qw3r04s",
+            "question": "你是否有必要在所有可能的情況下與其它車輛保持有足夠的緩衝距離?",
+            "answer": "有必要，只有這樣才能在危險情況出現時有足夠的時間做出反應。",
+            "questionImageUrl": null,
+            "choices": [
+                "有必要，只有這樣才能在危險情況出現時有足夠的時間做出反應。",
+                "沒必要，例如在平坦的市區公路上就不需要這樣做。",
+                "沒必要，例如在高速公路上這樣做就會浪費寶貴的空間。",
+                "沒必要，特別是對於反應快的年輕司機來說。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-246-zh.html"
+        },
+        {
+            "questionPK": "ncr6s1f",
+            "question": "你想在十字路口作「U形」轉彎，然後發現該路口有兩條左轉車道。那麼應該用兩條車道中的哪一條呢？",
+            "answer": "距街道中央最近的那條左轉車道。",
+            "questionImageUrl": null,
+            "choices": [
+                "距街道中央最近的那條左轉車道。",
+                "右手邊的那條的左轉車道。",
+                "無所謂，任選一條就可以。",
+                "法律禁止在這樣的路口處作「U形」轉彎。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-247-zh.html"
+        },
+        {
+            "questionPK": "zgsxaz1",
+            "question": "什麼情況下你應該主動放棄路權?",
+            "answer": "這樣做有助於避免事故發生時。",
+            "questionImageUrl": null,
+            "choices": [
+                "這樣做有助於避免事故發生時。",
+                "當別的車輛的車速比自己快很多時。",
+                "任何時候都不要這樣做，因為這會令其他司機感到困惑。",
+                "當對方車輛的體積比自己更大時。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-248-zh.html"
+        },
+        {
+            "questionPK": "tw7105w",
+            "question": "在車內放置已開啟的酒精飲料容器是違法的，只有一種情況下例外：",
+            "answer": "容器在車的後備箱中。",
+            "questionImageUrl": null,
+            "choices": [
+                "容器在車的後備箱中。",
+                "容器在車的後座上。",
+                "容器在手套箱內。",
+                "容器在後排乘客的手中。。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-249-zh.html"
+        },
+        {
+            "questionPK": "2galixt",
+            "question": "什麼情況下打算橫穿街道的行人擁有路權？",
+            "answer": "任何情況下，行人都有路權。",
+            "questionImageUrl": null,
+            "choices": [
+                "只有在路口有針對行人的專用信號燈時。",
+                "任何情況下，行人都有路權。",
+                "只有在路口的信號燈失靈時。",
+                "只有在路口設有人行橫道線時。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-250-zh.html"
+        },
+        {
+            "questionPK": "e9xvzxb",
+            "question": "如果你駕駛一輛慢行車輛行駛在彎曲的雙車道公路上，當身後有多少車輛跟隨你時，你才應該找個安全的地方在路邊停車并讓它們超過你？",
+            "answer": "5輛車或更多。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/slow-vehicle.jpg",
+            "choices": [
+                "4輛車。",
+                "5輛車或更多。",
+                "10輛車。",
+                "哪怕只有1輛車，你也應該停下來讓路。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-251-zh.html"
+        },
+        {
+            "questionPK": "6zsimjm",
+            "question": "從傾斜的停車位倒車出來時，應該如何觀察盲點？",
+            "answer": "將頭轉過右肩向後看。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/parking_lot_angle.jpg",
+            "choices": [
+                "觀察後視鏡。",
+                "觀察左側反光鏡。",
+                "將頭轉過右肩向後看。",
+                "觀察右側反光鏡。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-252-zh.html"
+        },
+        {
+            "questionPK": "e4z367o",
+            "question": "除非有特殊情況，否則如果一輛車的行駛速度太慢，以至於影響到正常交通，那麼這種行為是：",
+            "answer": "違法的。",
+            "questionImageUrl": null,
+            "choices": [
+                "違法的。",
+                "駕駛者的權利。",
+                "合法的，但建議不要這樣做。",
+                "合法的，但僅限於在市郊的公路上。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-253-zh.html"
+        },
+        {
+            "questionPK": "dssua7b",
+            "question": "阻塞交叉路口的行為是：",
+            "answer": "絕對不可以的。",
+            "questionImageUrl": null,
+            "choices": [
+                "可以的，只要其它車輛有足夠的空間繞過你就行。",
+                "可以的，但僅限於你在綠燈或黃燈時進入交叉路口，然後被迫停在了那裡。",
+                "絕對不可以的。",
+                "可以的，但僅限於在車流稀少的路口。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-254-zh.html"
+        },
+        {
+            "questionPK": "b5uh86k",
+            "question": "如圖所示，你作為 A 車的司機準備切換到旁邊的車道來超越 B 車。超車完成後，如果你還想回到原來的車道上，應該如何判斷你和 B 車之間保持有足夠的安全距離呢？",
+            "answer": "從後視鏡內可以看到完整的 B 車車頭。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/overtaking.jpg",
+            "choices": [
+                "從後視鏡內可以看到完整的 B 車車頭。",
+                "超過 B 車有一輛車車身的距離后。",
+                "超過 B 車大約2秒鐘后。",
+                "超過 B 車大約1秒鐘后。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-255-zh.html"
+        },
+        {
+            "questionPK": "nph5r6d",
+            "question": "以下哪一種行為是不安全的？",
+            "answer": "只關注前方的路段，目不斜視。",
+            "questionImageUrl": null,
+            "choices": [
+                "在能見度很低的天氣下打開車輛的霧燈。",
+                "只關注前方的路段，目不斜視。",
+                "在轉動方向盤之前扭頭觀察後面的車流。",
+                "進入彎道前減速。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-256-zh.html"
+        },
+        {
+            "questionPK": "oi3wscz",
+            "question": "如果你的駕照被限制只能在日出與日落之間駕車，而現在是晚上9:30，但是你必須去藥店買止咳藥；正確的做法是：",
+            "answer": "請朋友或親屬駕車送您去買藥。",
+            "questionImageUrl": null,
+            "choices": [
+                "自己駕車去買藥，但車速不能超過時速15mph。",
+                "請朋友或親屬駕車送您去買藥。",
+                "多等1小時，那時路上的車輛會更少。",
+                "自己駕車去買藥，但要走小路。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-257-zh.html"
+        },
+        {
+            "questionPK": "c1l4zi7",
+            "question": "如果知道某種藥物可能會影響駕駛，那麼在開車前是否可以服用該藥物呢？",
+            "answer": "不可以，服藥后就不應該再開車。",
+            "questionImageUrl": null,
+            "choices": [
+                "可以，但必須有醫生開的處方。",
+                "不可以，服藥后就不應該再開車。",
+                "可以，如果該藥物只是用於減肥或治療感冒。",
+                "可以，服用什麼藥物是個人的自由，受美國法律保護。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-258-zh.html"
+        },
+        {
+            "questionPK": "jwcp18k",
+            "question": "下列關於大型卡車及公共汽車的「盲點」的描述中，哪一個是正確的?",
+            "answer": "如果你不能完整的看見大型車輛的反光鏡的正面，那麼大型車輛的司機就有可能看不到你。",
+            "questionImageUrl": null,
+            "choices": [
+                "如果你不能完整的看見大型車輛的反光鏡的正面，那麼大型車輛的司機就有可能看不到你。",
+                "如果大型車輛配備有多個反光鏡, 那就不會有盲點了。",
+                "如果跟在大型車輛後面行駛時，和它之間的距離不少於六英尺就不在大型車輛的盲點中",
+                "只要保持在大型車輛的左側行駛，就不會位於它的盲點中。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-259-zh.html"
+        },
+        {
+            "questionPK": "y2spnz2",
+            "question": "開車時是否應該常常觀察後面的交通情況呢？",
+            "answer": "應該，這樣你才知道是否有別的車輛距離你太近。",
+            "questionImageUrl": null,
+            "choices": [
+                "應該，這樣你才知道是否有別的車輛距離你太近。",
+                "不應該，駕駛者的注意力應該集中在前方。",
+                "不應該，除非是堵車的時候才需要這樣做。",
+                "不應該，因為即便發生追尾的事故也不是你的責任。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-260-zh.html"
+        },
+        {
+            "questionPK": "ragpv4h",
+            "question": "從經驗上來說，如果在你前進的方向上有3條車道，那麼交通最順暢的是哪條車道呢？",
+            "answer": "中間的車道。",
+            "questionImageUrl": null,
+            "choices": [
+                "左邊的車道。",
+                "中間的車道。",
+                "右邊的車道。",
+                "其實走哪條車道都一樣。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-261-zh.html"
+        },
+        {
+            "questionPK": "pu15u03",
+            "question": "在路上駕駛時應該特別留意有沒有在機動車道上騎車的人，因為：",
+            "answer": "他們有權和你共用一條車道。",
+            "questionImageUrl": null,
+            "choices": [
+                "他們有時會逆行。",
+                "他們有權和你共用一條車道。",
+                "他們有路權。",
+                "他們的速度太快。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-262-zh.html"
+        },
+        {
+            "questionPK": "g6bzkcy",
+            "question": "路面上的黃色實線表示什麼意思？",
+            "answer": "將相反方向的車道分開。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/yellow_solid_line.jpg",
+            "choices": [
+                "將人行道和機動車道分開。",
+                "將自行車道和機動車道分開。",
+                "將相反方向的車道分開。",
+                "將人行道和機動車道分開。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-263-zh.html"
+        },
+        {
+            "questionPK": "c2gzv6c",
+            "question": "在大霧中行駛時，除了應該降低車速外還應該打開：",
+            "answer": "車輛的近光燈。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/low_and_high_beam.jpg",
+            "choices": [
+                "車輛的近光燈。",
+                "車輛的遠光燈。",
+                "車輛的雙閃燈。",
+                "車輛的天窗，如果有的話。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-264-zh.html"
+        },
+        {
+            "questionPK": "rdrwaez",
+            "question": "多人共乘車專用車道由菱形標記表示，什麼情況下你可以使用該專用車道呢？",
+            "answer": "當車內所載乘客的人數達到專用車道標誌上所標明的最低人數即可。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/hov_lane.jpg",
+            "choices": [
+                "只有在周末時才可以使用該車道。",
+                "當車內所載乘客的人數達到專用車道標誌上所標明的最低人數即可。",
+                "僅在超車時才可以使用該車道。",
+                "只有公交車或校巴才可以使用該車道。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-265-zh.html"
+        },
+        {
+            "questionPK": "u071wvg",
+            "question": "如果一輛移動中的車輛的左轉燈和右轉燈同時閃爍，表示什麼意思？",
+            "answer": "該車的司機想提醒大家前方可能有危險或發生了交通意外。",
+            "questionImageUrl": null,
+            "choices": [
+                "該車的司機想提醒大家他有路權。",
+                "該車的司機想提醒大家前方可能有危險或發生了交通意外。",
+                "該車的司機想提醒大家他的速度很快。",
+                "該車轉向燈出故障了。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-266-zh.html"
+        },
+        {
+            "questionPK": "si4fyi3",
+            "question": "什麼情況下你可以在遇到紅燈時向右轉彎？",
+            "answer": "除非有標誌明顯提示不可以這樣做, 那麼在確認安全的情況下可以這樣做。",
+            "questionImageUrl": null,
+            "choices": [
+                "除非有標誌明顯提示可以這樣做，否則是不可以這樣做的。",
+                "除非有標誌明顯提示不可以這樣做, 那麼在確認安全的情況下可以這樣做。",
+                "任何情況下，只要確認安全就可以這樣做。",
+                "任何情況下，都不可以這樣做。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-267-zh.html"
+        },
+        {
+            "questionPK": "tn8zpos",
+            "question": "下列描述的情況中，哪一種最容易出現交通事故？",
+            "answer": "當一輛車的車速高於或低於路上的其他車輛時。",
+            "questionImageUrl": null,
+            "choices": [
+                "當一輛車的車速高於或低於路上的其他車輛時。",
+                "在橋梁或高架橋上行駛時。",
+                "在高速公路上行駛時。",
+                "在夜間行駛時。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-268-zh.html"
+        },
+        {
+            "questionPK": "70jvej3",
+            "question": "開車時，什麼情況下一個未滿4歲或體重不足40磅的小孩必須被安置在安全座椅中？",
+            "answer": "任何時候都必須這樣做。",
+            "questionImageUrl": null,
+            "choices": [
+                "沒有特定情況，完全由家長決定。",
+                "任何時候都必須這樣做。",
+                "只有在高速公路上行駛時。",
+                "只有在夜間行駛時。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-269-zh.html"
+        },
+        {
+            "questionPK": "t8lkbur",
+            "question": "如果一定要在公路上停車的話，應該遵守什麼原則？",
+            "answer": "將車在離開路面的位置上。",
+            "questionImageUrl": null,
+            "choices": [
+                "將車停在路中央。",
+                "停車位置的前方200英呎內不能有任何遮擋視線的障礙物。",
+                "將車在離開路面的位置上。",
+                "將車停在最左邊的車道上。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-270-zh.html"
+        },
+        {
+            "questionPK": "gc7ie90",
+            "question": "為了避免車子在濕滑的道路上打滑，最好的辦法是：",
+            "answer": "在進入彎道或路口前減速。",
+            "questionImageUrl": null,
+            "choices": [
+                "沿著前面車的車輪印行駛。",
+                "在進入彎道或路口前減速。",
+                "感覺開始打滑了就迅速剎車。",
+                "定期做好車輛保養。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-271-zh.html"
+        },
+        {
+            "questionPK": "lvtpvue",
+            "question": "什麼情況下你可以「雙重停車」？",
+            "answer": "任何時候都不行。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/double_parking.jpg",
+            "choices": [
+                "僅在你的車子距離右側路邊石不超過6英呎的時候。",
+                "任何時候都不行。",
+                "僅在你負責送貨的時候。",
+                "僅在停車場有大量空位的時候。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-272-zh.html"
+        },
+        {
+            "questionPK": "ri98dce",
+            "question": "設置「讓車道」(passing bay)的目的是什麽?",
+            "answer": "方便你進入該車道以便讓其他車輛超車。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/passing_bay.jpg",
+            "choices": [
+                "方便你進入該車道以便讓其他車輛超車。",
+                "方便你在不影響其他車輛行駛的情況下右轉彎。",
+                "方便你停下來休息。",
+                "方便你停下來裝卸貨物。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-273-zh.html"
+        },
+        {
+            "questionPK": "z626fmj",
+            "question": "如果你是第一個駕車到達車禍現場并提供救助的人，你應該在哪裡駛離路面并停車。",
+            "answer": "經過車禍現場後。",
+            "questionImageUrl": null,
+            "choices": [
+                "經過車禍現場後。",
+                "在車禍現場前。",
+                "在車禍現場旁邊。",
+                "哪裡都可以，救人要緊。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-274-zh.html"
+        },
+        {
+            "questionPK": "yyfkeji",
+            "question": "據統計，大部分追尾撞車事故的起因是：",
+            "answer": "跟車距離太近。",
+            "questionImageUrl": null,
+            "choices": [
+                "跟車距離太近。",
+                "頻繁變換車道。",
+                "司機頻繁看後視鏡。",
+                "司機的心情不好。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-275-zh.html"
+        },
+        {
+            "questionPK": "r5d4hdp",
+            "question": "在路口等待左轉彎時，什麼情況下你應該給對面直行的車輛讓路：",
+            "answer": "對面直行車輛和你的距離太近，令你沒有把握安全的完成轉彎操作。",
+            "questionImageUrl": null,
+            "choices": [
+                "對面直行的車輛不止一輛時。",
+                "對面直行車輛和你的距離太近，令你沒有把握安全的完成轉彎操作。",
+                "對面直行車輛和你的距離小於500英呎時。",
+                "對面直行的車輛是大型貨車時。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-276-zh.html"
+        },
+        {
+            "questionPK": "xae5sex",
+            "question": "什麼情況下你應該更加謹慎的駕駛車輛？",
+            "answer": "行駛在學校附近或居民區時。",
+            "questionImageUrl": null,
+            "choices": [
+                "行駛在學校附近或居民區時。",
+                "在高速公路上超過大型卡車時。",
+                "路過交通事故現場時。",
+                "進入鄉村公路時。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-277-zh.html"
+        },
+        {
+            "questionPK": "3zqqvos",
+            "question": "在高速公路最右側車道行駛時，你需要留意什麼？",
+            "answer": "在高速公路入口處準備匯入車流的其它車輛。",
+            "questionImageUrl": null,
+            "choices": [
+                "在高速公路入口處準備匯入車流的其它車輛。",
+                "當時的天氣情況。",
+                "騎自行車的人。",
+                "載有重物的大型貨車。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-278-zh.html"
+        },
+        {
+            "questionPK": "34ie80e",
+            "question": "為什麼要盡量避免在其他車輛的右後方行駛？",
+            "answer": "因為右後方往往是司機的視野盲點。",
+            "questionImageUrl": null,
+            "choices": [
+                "因為右後方往往是司機的視野盲點。",
+                "因為右後方的風阻更大。",
+                "因為騎自行車的人往往出現在靠右邊的車道上。",
+                "沒有正確答案。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-279-zh.html"
+        },
+        {
+            "questionPK": "i4wn9x5",
+            "question": "大型卡車最有可能在什麼情況下出現速度失控進而引起危險？",
+            "answer": "攀爬長而陡的山坡時。",
+            "questionImageUrl": null,
+            "choices": [
+                "行駛在長且彎度較緩的彎道上時。",
+                "攀爬長而陡的山坡時。",
+                "沿著長而陡的山坡下行時。",
+                "在泥濘的山路上行駛時。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-280-zh.html"
+        },
+        {
+            "questionPK": "y1ku66b",
+            "question": "夏季的雨天中，什麼時候的路面最濕滑？",
+            "answer": "開始下雨的幾分鐘里。",
+            "questionImageUrl": null,
+            "choices": [
+                "開始下雨的幾分鐘里。",
+                "開始下雨的幾小時後。",
+                "雨停後。",
+                "下雨并打雷的時候。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-281-zh.html"
+        },
+        {
+            "questionPK": "51wsnpl",
+            "question": "你跟在一輛車的後面行駛，此時忽然天降大雨，你應該如何控制與前車的距離？",
+            "answer": "加大與前車的距離。",
+            "questionImageUrl": null,
+            "choices": [
+                "與前車的距離保持并遵守「2秒原則」。",
+                "跟車保持一個車身的距離。",
+                "加大與前車的距離。",
+                "縮小與前車的距離。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-282-zh.html"
+        },
+        {
+            "questionPK": "l7fp0ho",
+            "question": "下列幾種路段中，哪一種更容易在寒冷潮濕的天氣里結冰？",
+            "answer": "位於橋梁、立交橋上的路段。",
+            "questionImageUrl": null,
+            "choices": [
+                "山頂附近的路段。",
+                "表面覆蓋有瀝青的路段。",
+                "位於橋梁、立交橋上的路段。",
+                "穿行在隧道里的路段。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-283-zh.html"
+        },
+        {
+            "questionPK": "qig8m6k",
+            "question": "假設你駕車時遇到交通擁堵，此時路邊的指示牌上顯示限速為65mph；但是周圍其它車輛的速度只有大約35mph，那麼你的車速應該如何調整呢？",
+            "answer": "降至35mph",
+            "questionImageUrl": null,
+            "choices": [
+                "降至25mph",
+                "降至35mph",
+                "升至70mph",
+                "維持65mph不變"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-284-zh.html"
+        },
+        {
+            "questionPK": "97aww97",
+            "question": "以下幾種關於「駕駛」和「藥物」的說法中，最為合理的應該是：",
+            "answer": "多數用於治療感冒、頭疼的藥物都會使人產生嗜睡反應。",
+            "questionImageUrl": null,
+            "choices": [
+                "多數用於治療感冒、頭疼的藥物都會使人產生嗜睡反應。",
+                "藥物配合酒精一起使用可以提高療效。",
+                "只要是醫生開具的藥物就不會影響駕駛。",
+                "藥物會影響駕駛這種事完全是無稽之談。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-285-zh.html"
+        },
+        {
+            "questionPK": "av0l6lk",
+            "question": "車輛在有積水的路面上行駛時容易出現打滑現象，作為司機應該如何應對呢？",
+            "answer": "保持冷靜并握好方向盤，避免踩剎車，通過鬆開油門的方式讓車輛自然減速。",
+            "questionImageUrl": null,
+            "choices": [
+                "保持車速不變，這樣才能保證車輛有足夠的動力駛離這一路段。",
+                "迅速用力踩剎車，讓車輛盡快停在路邊。",
+                "保持冷靜并握好方向盤，避免踩剎車，通過鬆開油門的方式讓車輛自然減速。",
+                "嘗試熄滅發動機，以便車輛迅速停止。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-286-zh.html"
+        },
+        {
+            "questionPK": "r7ssigm",
+            "question": "司機應該在什麼時候注意查看自己車輛後面的交通情況？",
+            "answer": "倒車、變換車道、緊急剎車之前。",
+            "questionImageUrl": null,
+            "choices": [
+                "進入車庫之前。",
+                "倒車、變換車道、緊急剎車之前。",
+                "駛離車庫之前。",
+                "駛入學校周邊路段之后。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-287-zh.html"
+        },
+        {
+            "questionPK": "e0qd06o",
+            "question": "在某些路口的信號燈上，你可能會看到這種指向右方的紅色箭頭，其含義是：",
+            "answer": "只有在紅箭頭變成綠色之后才能右轉彎。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/traffic_lights_red_arrow_right.jpg",
+            "choices": [
+                "可以右轉彎，但必須要確保安全。",
+                "只有在紅箭頭變成綠色之后才能右轉彎。",
+                "右側的公路上正在進行施工，所有車輛必須繞行。",
+                "只有救護車、消防車等緊急車輛才可以在該路口右轉彎。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-288-zh.html"
+        },
+        {
+            "questionPK": "n78zdgj",
+            "question": "為什麼提倡司機們在轉彎時盡可能提前使用轉向燈發出信號？",
+            "answer": "因為這樣有助於讓其他司機知道你要轉彎的意圖。",
+            "questionImageUrl": null,
+            "choices": [
+                "沒有特殊的理由，只因為加州的法律如此要求。",
+                "因為這樣有助於讓其他司機知道你要轉彎的意圖。",
+                "這樣做的司機可以優先擁有路權。",
+                "這會讓你獲得更低的汽車保險價格。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-289-zh.html"
+        },
+        {
+            "questionPK": "mp4i61c",
+            "question": "如果你想從一輛大卡車的旁邊超車，最安全的途徑是：",
+            "answer": "從它的左側超車，因為這樣更容易讓卡車司機注意到你。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/overtake_truck.jpg",
+            "choices": [
+                "從它的左側超車，因為這樣更容易讓卡車司機注意到你。",
+                "從它的右側超車，因為右邊的車道往往更寬。",
+                "超車前不停鳴笛，直到卡車司機注意到你之後再超車。",
+                "加州法律規定禁止超越卡車。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-290-zh.html"
+        },
+        {
+            "questionPK": "29148p2",
+            "question": "如果你能預判到自己車即將從後方遭到撞擊，正確的反應是：",
+            "answer": "準備好在撞擊後剎車。",
+            "questionImageUrl": null,
+            "choices": [
+                "準備好在撞擊後剎車。",
+                "緊踩住剎車不放。",
+                "立刻關掉發動機。",
+                "雙手抱頭，保護好身體的要害部位。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-291-zh.html"
+        },
+        {
+            "questionPK": "favd1vr",
+            "question": "下列關於「遠光燈」的描述中，正確的是：",
+            "answer": "只要安全合法，任何情況下都可以使用遠光燈。",
+            "questionImageUrl": null,
+            "choices": [
+                "盡可能避免使用遠光燈。",
+                "僅在昏暗的路段處使用遠光燈。",
+                "只要安全合法，任何情況下都可以使用遠光燈。",
+                "僅在鄉村公路上使用遠光燈。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-292-zh.html"
+        },
+        {
+            "questionPK": "vncxj6b",
+            "question": "下列有關「盲點」的說法中，哪一個是正確的？",
+            "answer": "切換左線時向左邊回頭看，換右線時向右邊回頭看。",
+            "questionImageUrl": null,
+            "choices": [
+                "無論向左或向右切換車道，都只需要扭頭向右邊觀察路況。",
+                "切換左線時向左邊回頭看，換右線時向右邊回頭看。",
+                "配有左右側鏡的車輛沒有盲點。",
+                "配有倒車影像的車輛沒有盲點。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-293-zh.html"
+        },
+        {
+            "questionPK": "gyjcbqz",
+            "question": "下列有關「酒精」和「駕駛」的描述中，哪一個是正確的？",
+            "answer": "酒精會影響你的判斷力和自制力。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/bac-test.jpg",
+            "choices": [
+                "如果你在喝酒後還可以沿直線行走，就表示你可以安全駕駛。",
+                "如果你血液中的酒精濃度符合法律規定，就不會影響安全駕駛。",
+                "酒精會影響你的判斷力和自制力。",
+                "少量的喝啤酒不會影響駕駛。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-294-zh.html"
+        },
+        {
+            "questionPK": "be85s4s",
+            "question": "當你駛過十字路口的一大半時才意識到自己應該左轉彎而不是直行，正確的做法是：",
+            "answer": "繼續行駛至下一個路口，然後設法繞路或回到之前的路口。",
+            "questionImageUrl": null,
+            "choices": [
+                "立刻停車等候，確認安全后左轉彎。",
+                "繼續行駛至下一個路口，然後設法繞路或回到之前的路口。",
+                "倒車，確認安全后左轉彎。",
+                "原地 U 型轉彎，確認安全后左轉彎。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-295-zh.html"
+        },
+        {
+            "questionPK": "dppcugv",
+            "question": "如果你在停車時因為某種原因，比如忘記拉手剎導致車輛滑行，結果撞到了其它車輛。你應該怎麼做？",
+            "answer": "你需要設法給對方留下你的聯繫方式，並儘快向執法機構或 California Highway Patrol 提交書面報告。",
+            "questionImageUrl": null,
+            "choices": [
+                "如果沒有目擊者或監控錄像，那麼盡快離開現場。",
+                "立刻聯繫你的保險公司。",
+                "你需要設法給對方留下你的聯繫方式，並儘快向執法機構或 California Highway Patrol 提交書面報告。",
+                "叫拖車將對方車輛送到修理廠。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-296-zh.html"
+        },
+        {
+            "questionPK": "8ww2q42",
+            "question": "當你接近一個視線不好的\"盲(blind)\"路口，且路口沒有 STOP 或 YIELD 標誌，你需要將車速控制在多少？",
+            "answer": "15英里/小時",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/blind-intersection-sign.jpg",
+            "choices": [
+                "10英里/小時",
+                "15英里/小時",
+                "20英里/小時",
+                "25英里/小時"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-297-zh.html"
+        },
+        {
+            "questionPK": "4apethr",
+            "question": "下列哪一種情況下，你可以跨越路面上的雙黃實線？",
+            "answer": "駛入或駛出私人車道時",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/double_yellow_line.jpg",
+            "choices": [
+                "任何時候都不行",
+                "超車時",
+                "駛入或駛出私人車道時",
+                "路面視線不好時"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-298-zh.html"
+        },
+        {
+            "questionPK": "zbk8zhw",
+            "question": "DMV 司機手冊上列出了兩種可能會阻塞交通的不良駕駛習慣，它們是：",
+            "answer": "注意力分散 & 隨意變換車道",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/careless-driving.jpg",
+            "choices": [
+                "新手上路 & 跟隨前車太近",
+                "注意力分散 & 隨意變換車道",
+                "佩戴墨鏡 & 收聽廣播",
+                "不使用 GPS & 隨意變換車道"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-299-zh.html"
+        },
+        {
+            "questionPK": "gkhwc2b",
+            "question": "這種形狀的標誌表示：",
+            "answer": "當路口的左轉彎箭頭指示燈亮起時，你可以左轉彎或 U 形轉彎",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/left-and-u-turn.jpg",
+            "choices": [
+                "你必須左轉彎或 U 形左轉彎",
+                "左側有岔路口",
+                "當路口的左轉彎箭頭指示燈亮起時，你可以左轉彎或 U 形轉彎",
+                "禁止左轉彎或 U 形左轉彎"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-300-zh.html"
+        },
+        {
+            "questionPK": "s4zahsn",
+            "question": "這個標誌表示：",
+            "answer": "單行道，車流靠右行駛。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/65ab8816ee399dab8d356b478fe8fca0.png",
+            "choices": [
+                "單行道，車流靠右行駛。",
+                "禁止右轉彎。",
+                "所有車輛必須右轉彎。",
+                "右前方有急彎，注意減速。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-301-zh.html"
+        },
+        {
+            "questionPK": "qfrh0lh",
+            "question": "這個標誌表示：",
+            "answer": "綠燈時可以左轉，但必須讓行其它車輛。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/r1012.jpg",
+            "choices": [
+                "你只能在綠燈時左轉。",
+                "綠燈時可以左轉，但必須讓行其它車輛。",
+                "綠燈時禁止左轉。",
+                "左轉后即將進入環島。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-302-zh.html"
+        },
+        {
+            "questionPK": "ow7st1t",
+            "question": "這個標誌表示：",
+            "answer": "任何情況下都不能超車。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/39ad0419d3edec9ccf5ba55869cb2ef3.png",
+            "choices": [
+                "日間禁止超車。",
+                "夜間禁止超車。",
+                "任何情況下都不能超車。",
+                "除非能確保安全，否則禁止超車。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-303-zh.html"
+        },
+        {
+            "questionPK": "jocmzej",
+            "question": "自2018年1月1日加州娛樂用大麻合法化後，開車时吸大麻也變得合法。這句話對嗎？",
+            "answer": "錯，根據加州法律規定，吸大麻后開車依然屬於一種 DUI(Driving under the influence)的違法行為。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/xi-da-ma.jpg",
+            "choices": [
+                "對，但前提是必須從正規銷售商處購得大麻。",
+                "錯，根據加州法律規定，吸大麻后開車依然屬於一種 DUI(Driving under the influence)的違法行為。",
+                "對，但作為司機每天只能吸一支大麻。",
+                "對，但前提是司機必須年滿18周歲。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-304-zh.html"
+        },
+        {
+            "questionPK": "ef54aj6",
+            "question": "從下面選出不屬於「行人」的一類人：",
+            "answer": "騎電動自行車的人。",
+            "questionImageUrl": "https://pass-dmv-test.com/static/passdmvtest/diandong-lunyi.jpg",
+            "choices": [
+                "導盲犬的主人。",
+                "騎電動自行車的人。",
+                "乘坐電動輪椅的殘疾人。",
+                "玩滑板的青少年。"
+            ],
+            "source": "https://pass-dmv-test.com/quiz-305-zh.html"
+        },
+        {
+            "questionPK": "ndor10v",
+            "question": "年满21岁或以上的驾驶员在血液酒精浓度（BAC）达到____或以上时驾驶车辆即属违法行为",
+            "answer": "0.08% － 百分之零點零八",
+            "questionImageUrl": null,
+            "choices": [
+                "0.08% － 百分之零點零八",
+                "0.10% － 百分之零點一",
+                "0.05% － 百分之零點零五"
+            ],
+            "source": "https://driver-test.com/ca/exam/1"
+        },
+        {
+            "questionPK": "oslu4oa",
+            "question": "如果您发现有人在单行道上错误的方向行驶，您应该：",
+            "answer": "以上全部",
+            "questionImageUrl": null,
+            "choices": [
+                "向对方闪动车灯",
+                "向对方鸣笛",
+                "减速，准备停下或停到路边以保持您的安全",
+                "以上全部"
+            ],
+            "source": "https://driver-test.com/ca/exam/2"
+        },
+        {
+            "questionPK": "ea1xk04",
+            "question": "以下哪种情况允许使用喇叭？",
+            "answer": "如果不鸣笛安全性会受到影响",
+            "questionImageUrl": null,
+            "choices": [
+                "如果不鸣笛安全性会受到影响",
+                "其他司机没有明显理由的情况下向你鸣笛",
+                "你看到一位熟人驾车经过",
+                "你在等待某人时鸣笛示意对方出门"
+            ],
+            "source": "https://driver-test.com/ca/exam/3"
+        },
+        {
+            "questionPK": "odaiq08",
+            "question": "在加州，除了摩托车和某些混合动力汽车外，菱形标志的车道专供车辆使用：",
+            "answer": "两个或两个以上的人",
+            "questionImageUrl": null,
+            "choices": [
+                "孩子",
+                "老人",
+                "两个或两个以上的人",
+                "只有四个人"
+            ],
+            "source": "https://driver-test.com/ca/exam/4"
+        },
+        {
+            "questionPK": "cp6aof7",
+            "question": "在有限速标志的高速出口处，你应该：",
+            "answer": "逐渐减慢车速至限速标志所显示的车速",
+            "questionImageUrl": null,
+            "choices": [
+                "把车速降低到高速限速的一半",
+                "提高车速",
+                "逐渐减慢车速至限速标志所显示的车速",
+                "以当前速度行驶，因为离开高速公路的司机拥有路权"
+            ],
+            "source": "https://driver-test.com/ca/exam/5"
+        },
+        {
+            "questionPK": "raehroh",
+            "question": "根据基本速度法（Basic Speed Law），如果按照限速标志行驶不安全时，您应该：",
+            "answer": "将您的车速降低到低于最高限速",
+            "questionImageUrl": null,
+            "choices": [
+                "将您的车速降低到低于最高限速",
+                "尽可能接近最高限速",
+                "将您的车速提高到超过最高限速",
+                "将您的车速提高到超过最低限速"
+            ],
+            "source": "https://driver-test.com/ca/exam/6"
+        },
+        {
+            "questionPK": "iq4opwr",
+            "question": "您应如何为紧急车辆让路？",
+            "answer": "把车驶向道路的右侧边缘并停车等候紧急车辆通过",
+            "questionImageUrl": null,
+            "choices": [
+                "把车驶向道路的右侧边缘并停车等候紧急车辆通过",
+                "将车驶入右车道，慢慢驾驶直到紧急车辆通过",
+                "立即停车，即使您正处于交叉路口"
+            ],
+            "source": "https://driver-test.com/ca/exam/7"
+        },
+        {
+            "questionPK": "51v0e6h",
+            "question": "当您开车经过施工区时，您应当：",
+            "answer": "小心通过施工区，而且不要「东张西望」",
+            "questionImageUrl": null,
+            "choices": [
+                "减慢车速观看工人",
+                "缩短跟车距离",
+                "小心通过施工区，而且不要「东张西望」"
+            ],
+            "source": "https://driver-test.com/ca/exam/8"
+        },
+        {
+            "questionPK": "1oy7dm9",
+            "question": "在路口右转弯时，您：",
+            "answer": "必须在转弯之前汇入自行车道",
+            "questionImageUrl": null,
+            "choices": [
+                "不得驶入自行车道",
+                "必须在转弯之前停车，然后才能汇入自行车道",
+                "必须在转弯之前汇入自行车道"
+            ],
+            "source": "https://driver-test.com/ca/exam/9"
+        },
+        {
+            "questionPK": "4awncxp",
+            "question": "如果交通信号灯失灵，您必须：",
+            "answer": "先停车，然后在安全时再继续前进",
+            "questionImageUrl": null,
+            "choices": [
+                "先停车，然后在安全时再继续前进",
+                "在进入交叉路口之前停车，并让所有其他车辆先行",
+                "仅在必要时减速或停车"
+            ],
+            "source": "https://driver-test.com/ca/exam/10"
+        },
+        {
+            "questionPK": "orzoa1o",
+            "question": "一位行人正在穿越您的车道，但路上并没有标记的行人穿越道。此时您应该:",
+            "answer": "停车，让行人穿过街道",
+            "questionImageUrl": null,
+            "choices": [
+                "确保该行人看到您，但继续驾驶",
+                "在该行人附近小心驾驶",
+                "停车，让行人穿过街道"
+            ],
+            "source": "https://driver-test.com/ca/exam/11"
+        },
+        {
+            "questionPK": "qnrpg41",
+            "question": "您应始终系好安全带：",
+            "answer": "只要车上有安全带，就必须系好安全带",
+            "questionImageUrl": null,
+            "choices": [
+                "除非该车辆的制造日期早于1978年",
+                "除非您驾驶的时豪华轿车",
+                "只要车上有安全带，就必须系好安全带"
+            ],
+            "source": "https://driver-test.com/ca/exam/12"
+        },
+        {
+            "questionPK": "65s1jpm",
+            "question": "在下列哪种情形下必须增加与前面的大型卡车之间的距离：",
+            "answer": "当卡车驾驶者想要停车时",
+            "questionImageUrl": null,
+            "choices": [
+                "当其他驾驶者汇入高速公路时",
+                "当卡车驾驶者想要停车时",
+                "当其他驾驶者想要减速时"
+            ],
+            "source": "https://driver-test.com/ca/exam/13"
+        },
+        {
+            "questionPK": "ut62kw2",
+            "question": "刚开始下雨时，路面上很滑。当路面很滑时，您应该：",
+            "answer": "避免急转弯和急停",
+            "questionImageUrl": null,
+            "choices": [
+                "避免急转弯和急停",
+                "在上坡时考验轮胎的抓地力",
+                "缩短察看前方路况的距离"
+            ],
+            "source": "https://driver-test.com/ca/exam/14"
+        },
+        {
+            "questionPK": "1vwd2lf",
+            "question": "在下列哪种情况下更容易发生碰撞：",
+            "answer": "一辆车的行驶速度比车流速度快或慢",
+            "questionImageUrl": null,
+            "choices": [
+                "所有车辆都按大致相同的速度行驶",
+                "一条车道的车流速度比其它车道的车流速度快",
+                "一辆车的行驶速度比车流速度快或慢"
+            ],
+            "source": "https://driver-test.com/ca/exam/15"
+        },
+        {
+            "questionPK": "cctrmyf",
+            "question": "停车后，如果您想重新汇入车流（离开路缘），您：",
+            "answer": "需要足够的间隔距离，以将车速调整至车流的速度",
+            "questionImageUrl": null,
+            "choices": [
+                "应该以低于其它车辆的速度行驶200英尺",
+                "需要足够的间隔距离，以将车速调整至车流的速度",
+                "应该等最初两辆车通过后再驶入行车道"
+            ],
+            "source": "https://driver-test.com/ca/exam/16"
+        },
+        {
+            "questionPK": "mkmw4rs",
+            "question": "超车后，您应在以下哪种情况下安全返回原行车道：",
+            "answer": "从后视镜中可以看到该车辆的头灯时",
+            "questionImageUrl": null,
+            "choices": [
+                "从右侧无法直接看到该车辆时",
+                "从后视镜中可以看到该车辆的头灯时",
+                "已经驶过另一辆车的前保险杠时"
+            ],
+            "source": "https://driver-test.com/ca/exam/17"
+        },
+        {
+            "questionPK": "mll0l8z",
+            "question": "当遇到车辆迎面驶来或者您的车辆与某一辆车之间的距离在300英尺内时，您应该在以下哪种情况减弱车头灯",
+            "answer": "您从后面接近其他车辆",
+            "questionImageUrl": null,
+            "choices": [
+                "您从后面接近其他车辆",
+                "某车辆从后面驶近您的车辆",
+                "您已经驶过该车"
+            ],
+            "source": "https://driver-test.com/ca/exam/18"
+        },
+        {
+            "questionPK": "422e0fs",
+            "question": "如果看见高速公路上的橙色施工标志和锥形路标，您必须：",
+            "answer": "做好准备避让前方的施工工人和设备",
+            "questionImageUrl": null,
+            "choices": [
+                "减慢速度，因为前方是车道终点",
+                "做好准备避让前方的施工工人和设备",
+                "变换车道并保持目前的行车速度"
+            ],
+            "source": "https://driver-test.com/ca/exam/19"
+        },
+        {
+            "questionPK": "uto8h04",
+            "question": "在住宅区可以合法回转的情况是：",
+            "answer": "当附近没有车辆接近时",
+            "questionImageUrl": null,
+            "choices": [
+                "在绿色箭头灯亮起的单行道上",
+                "当附近没有车辆接近时",
+                "穿越两组双黄实线时"
+            ],
+            "source": "https://driver-test.com/ca/exam/20"
+        },
+        {
+            "questionPK": "f18yvlk",
+            "question": "您同意在以下条件下接受化验，以测定血液、呼吸或尿液中的酒精含量：",
+            "answer": "无论何时，只要您在加州驾驶",
+            "questionImageUrl": null,
+            "choices": [
+                "仅限于您一直饮酒的情况",
+                "无论何时，只要您在加州驾驶",
+                "仅在您发生交通碰撞事故的情况下"
+            ],
+            "source": "https://driver-test.com/ca/exam/21"
+        },
+        {
+            "questionPK": "1hl29qk",
+            "question": "当绿色箭头灯亮起时，您必须：",
+            "answer": "为交叉路口的车辆、自行车或行人让行",
+            "questionImageUrl": null,
+            "choices": [
+                "为交叉路口的车辆、自行车或行人让行",
+                "仅为交叉路口的行人让行",
+                "等候4秒钟，然后再继续行驶"
+            ],
+            "source": "https://driver-test.com/ca/exam/22"
+        },
+        {
+            "questionPK": "xd02c5v",
+            "question": "在夜间灯光昏暗的街道上行驶时，您应",
+            "answer": "缓慢行车，以便您可以在车灯的照射范围内及时停车",
+            "questionImageUrl": null,
+            "choices": [
+                "缓慢行车，以便您可以在车灯的照射范围内及时停车",
+                "打开远光灯，以看清前方的车辆",
+                "打开仪表盘的灯光并保持该亮度，以便其他驾驶者能看清您"
+            ],
+            "source": "https://driver-test.com/ca/exam/23"
+        },
+        {
+            "questionPK": "y3nqxq5",
+            "question": "你打算从一条仅限右转的车道上右转，这时你注意到你的车道有一个黄色箭头，你应当：",
+            "answer": "准备遵守下一次出现的交通信号",
+            "questionImageUrl": null,
+            "choices": [
+                "准备遵守下一次出现的交通信号",
+                "检查是否有行人，然后小心转弯",
+                "停下，任何情况下都不能转弯"
+            ],
+            "source": "https://driver-test.com/ca/exam/24"
+        },
+        {
+            "questionPK": "6n4oj56",
+            "question": "在转弯之前务必小心注意摩托车，因为：",
+            "answer": "摩托车体积比客车小得多，难以发现",
+            "questionImageUrl": null,
+            "choices": [
+                "摩托车必须独占整条车道",
+                "摩托车在交叉路口总是享有先行权",
+                "摩托车体积比客车小得多，难以发现"
+            ],
+            "source": "https://driver-test.com/ca/exam/25"
+        },
+        {
+            "questionPK": "kq3k6yw",
+            "question": "您什么时候可以绕过铁路平交道安全栅栏？",
+            "answer": "任何情况下都不可以",
+            "questionImageUrl": null,
+            "choices": [
+                "任何情况下都不可以",
+                "在你能够清楚看到两边方向时",
+                "安全栅栏功能不正常时"
+            ],
+            "source": "https://driver-test.com/ca/exam/26"
+        },
+        {
+            "questionPK": "bvu25nb",
+            "question": "你可在以下何处合法泊车：",
+            "answer": "紧急情况下，停在高速公路路肩",
+            "questionImageUrl": null,
+            "choices": [
+                "紧急情况下，停在高速公路路肩",
+                "没有标记的人行横道",
+                "面向迎面而来的车辆的街道边缘"
+            ],
+            "source": "https://driver-test.com/ca/exam/27"
+        },
+        {
+            "questionPK": "1ogtrg4",
+            "question": "在急转弯处，你应使用刹车减慢行车速度：",
+            "answer": "在驶入弯道前",
+            "questionImageUrl": null,
+            "choices": [
+                "在驶入弯道前",
+                "仅在你驶入弯道后",
+                "在通过弯道的全部时间都应该如此"
+            ],
+            "source": "https://driver-test.com/ca/exam/28"
+        },
+        {
+            "questionPK": "oqqpwjd",
+            "question": "您被牵扯到车祸中，有人受伤，您必须向谁作出书面车祸报告：",
+            "answer": "机动车辆管理局（DMV）",
+            "questionImageUrl": null,
+            "choices": [
+                "加州公路巡逻队（CHP）",
+                "机动车辆管理局（DMV）",
+                "您的保险公司"
+            ],
+            "source": "https://driver-test.com/ca/exam/29"
+        },
+        {
+            "questionPK": "s9ona9l",
+            "question": "你正在接近交叉路口。信号灯是闪烁的黄灯。你应该怎么办？",
+            "answer": "减速并小心通过",
+            "questionImageUrl": null,
+            "choices": [
+                "保持速度，但是当心其他车辆",
+                "在通过交叉路口前停下",
+                "减速并小心通过"
+            ],
+            "source": "https://driver-test.com/ca/exam/30"
+        },
+        {
+            "questionPK": "i5brmje",
+            "question": "在以下情况下，你应当扩大你的汽车与前面的车辆之间的距离：",
+            "answer": "后面的车盯得很紧而拥挤",
+            "questionImageUrl": null,
+            "choices": [
+                "跟随小轿车",
+                "后面的车盯得很紧而拥挤",
+                "行车速度低于公布的限速"
+            ],
+            "source": "https://driver-test.com/ca/exam/31"
+        },
+        {
+            "questionPK": "yhhj4yp",
+            "question": "把6岁或小于6岁的儿童留在机动车辆内无人照顾为非法，如果：",
+            "answer": "车钥匙还在点火器上",
+            "questionImageUrl": null,
+            "choices": [
+                "该儿童由12岁或以上年龄之兄姐陪同",
+                "车钥匙还在点火器上",
+                "在寒冷的雨天，所有车窗都摇起时"
+            ],
+            "source": "https://driver-test.com/ca/exam/32"
+        },
+        {
+            "questionPK": "7n7uub6",
+            "question": "若出现浓雾或沙尘天气，你对驾驶的最佳建议是什么？",
+            "answer": "停止驾驶，直到天气好转",
+            "questionImageUrl": null,
+            "choices": [
+                "停止驾驶，直到天气好转",
+                "驾驶速度不要太慢，因为其他驾驶者可能会撞上你",
+                "变换使用远光灯和近光灯，改善视野"
+            ],
+            "source": "https://driver-test.com/ca/exam/33"
+        },
+        {
+            "questionPK": "dhxbrf2",
+            "question": "此黄色标志表示",
+            "answer": "公路分隔终止",
+            "questionImageUrl": "https://driver-test.comhttps://driver-test.com/storage/pics/CA/1583194453.png",
+            "choices": [
+                "车道在前方交汇",
+                "公路分隔终止",
+                "前方车道有障碍"
+            ],
+            "source": "https://driver-test.com/ca/exam/34"
+        },
+        {
+            "questionPK": "u3649ux",
+            "question": "你行进的方向有两个行车道。你正在左车道行驶，有许多车辆从右车道超车。如果紧随你的车辆想开快一点，你应该：",
+            "answer": "在安全的时候并入右车道",
+            "questionImageUrl": null,
+            "choices": [
+                "继续在该车道行车，以免妨碍车流",
+                "驶向左侧，让其他车辆通过",
+                "在安全的时候并入右车道"
+            ],
+            "source": "https://driver-test.com/ca/exam/35"
+        },
+        {
+            "questionPK": "cki8mxq",
+            "question": "黄线可以分隔：",
+            "answer": "双行道路上相对行驶的车流",
+            "questionImageUrl": null,
+            "choices": [
+                "单行道路上的行车道",
+                "双行道路上相对行驶的车流",
+                "将所有合用车行车道与普通行车道分隔开"
+            ],
+            "source": "https://driver-test.com/ca/exam/36"
+        },
+        {
+            "questionPK": "8u7xsvq",
+            "question": "你在一条左转车道之上看到一个信号说：「左转在绿灯亮时让行。」这一信号的是什么意思？",
+            "answer": "您可在绿灯亮起并且安全时左转",
+            "questionImageUrl": "https://driver-test.comhttps://driver-test.com/./pics/CA/zJQGPp76.jpeg",
+            "choices": [
+                "您只能在绿灯亮时左转",
+                "您可在绿灯亮起并且安全时左转",
+                "您必须等到信号灯全绿时左转"
+            ],
+            "source": "https://driver-test.com/ca/exam/37"
+        },
+        {
+            "questionPK": "qtg6oyp",
+            "question": "天气寒冷和潮湿时，以下哪些道路最有可能藏有不易觉察的结冰处？",
+            "answer": "桥梁和立交桥上的道路",
+            "questionImageUrl": null,
+            "choices": [
+                "靠近山顶的道路",
+                "铺设沥青的道路",
+                "桥梁和立交桥上的道路"
+            ],
+            "source": "https://driver-test.com/ca/exam/38"
+        },
+        {
+            "questionPK": "nj4irmi",
+            "question": "路沿如漆成红色，意思是停下或停车：",
+            "answer": "禁止停车，但巴士除外，这时会有路标",
+            "questionImageUrl": null,
+            "choices": [
+                "禁止停车，但巴士除外，这时会有路标",
+                "仅有残疾人车辆是允许的",
+                "仅限紧急车辆"
+            ],
+            "source": "https://driver-test.com/ca/exam/39"
+        },
+        {
+            "questionPK": "asflj7d",
+            "question": "这种形状的橘黄色标志表示：",
+            "answer": "慢行车辆",
+            "questionImageUrl": "https://driver-test.comhttps://driver-test.com/storage/pics/CA/1628631450.png",
+            "choices": [
+                "机动车有优先权",
+                "慢行车辆",
+                "前方交通有危险状况"
+            ],
+            "source": "https://driver-test.com/ca/exam/40"
+        },
+        {
+            "questionPK": "phb7c5k",
+            "question": "除非另有标志说明，在住宅区限制时速是多少？",
+            "answer": "25英里",
+            "questionImageUrl": null,
+            "choices": [
+                "35英里",
+                "25英里",
+                "30英里"
+            ],
+            "source": "https://driver-test.com/ca/exam/41"
+        },
+        {
+            "questionPK": "35wttob",
+            "question": "大型卡车最有可能在哪里速度失控引起危险",
+            "answer": "开上长而陡的山坡",
+            "questionImageUrl": null,
+            "choices": [
+                "长且弯度较缓的弯道",
+                "开上长而陡的山坡",
+                "开下长而陡的山坡"
+            ],
+            "source": "https://driver-test.com/ca/exam/42"
+        },
+        {
+            "questionPK": "7eigmat",
+            "question": "遇到红灯时，您什么时候可以右转？",
+            "answer": "没有其它规定的情况下，在停车后可以右转",
+            "questionImageUrl": null,
+            "choices": [
+                "减速并确认路况后",
+                "没有其它规定的情况下，在停车后可以右转",
+                "任何时候都不可以"
+            ],
+            "source": "https://driver-test.com/ca/exam/43"
+        },
+        {
+            "questionPK": "s57dtur",
+            "question": "橙色指示牌表明",
+            "answer": "前方正在施工",
+            "questionImageUrl": null,
+            "choices": [
+                "前方有学校",
+                "前方有交通信号灯",
+                "前方正在施工"
+            ],
+            "source": "https://driver-test.com/ca/exam/44"
+        },
+        {
+            "questionPK": "bemz978",
+            "question": "如何正确使用转向灯",
+            "answer": "换线时使用转向灯是好习惯",
+            "questionImageUrl": null,
+            "choices": [
+                "不可同时使用转向灯和转向手势",
+                "如果打转向灯想要换线，其他驾驶者必须让您汇入车流",
+                "换线时使用转向灯是好习惯"
+            ],
+            "source": "https://driver-test.com/ca/exam/45"
+        },
+        {
+            "questionPK": "59cg1k0",
+            "question": "关于自行车，你应该注意",
+            "answer": "自行车可能在您的视野盲点",
+            "questionImageUrl": null,
+            "choices": [
+                "自行车必须面向迎面的车流行驶",
+                "自行车可能在您的视野盲点",
+                "自行车拥有先行权"
+            ],
+            "source": "https://driver-test.com/ca/exam/46"
+        },
+        {
+            "questionPK": "jdkx2bq",
+            "question": "没有人行横道或者停车线时，您应将车停在",
+            "answer": "路口前",
+            "questionImageUrl": null,
+            "choices": [
+                "路口前",
+                "刚过路口",
+                "路口前二十英尺"
+            ],
+            "source": "https://driver-test.com/ca/exam/47"
+        },
+        {
+            "questionPK": "jk7o7vk",
+            "question": "如果您的车开始在水面飘滑，您应该",
+            "answer": "逐渐减速，不要踩刹车",
+            "questionImageUrl": null,
+            "choices": [
+                "保持车速，以便获得更好的牵引力",
+                "用力踩刹车，以防止您的车辆打滑",
+                "逐渐减速，不要踩刹车"
+            ],
+            "source": "https://driver-test.com/ca/exam/48"
+        },
+        {
+            "questionPK": "q88y890",
+            "question": "加州驾驶员手册上列出的两种阻塞交通的驾驶行为是",
+            "answer": "驾驶时东张西望和不必要地更换车道",
+            "questionImageUrl": null,
+            "choices": [
+                "驾驶时使用手机和不停的变换速度",
+                "驾驶时东张西望和不必要地更换车道",
+                "追尾和变换道路",
+                "无经验驾驶和驾驶时漫不经心"
+            ],
+            "source": "https://driver-test.com/ca/exam/49"
+        },
+        {
+            "questionPK": "xo7kx1u",
+            "question": "行人在「禁止行走」（Don’t Walk）信号灯闪烁后开始穿越街道。这名行人在街道中间时，你行车方向的交通信号灯变成绿色，您应该：",
+            "answer": "在您能够完全通过交叉路口之前，不要驶入交叉口",
+            "questionImageUrl": null,
+            "choices": [
+                "部分驶入交叉路口，以使您获得先行权",
+                "在您能够完全通过交叉路口之前，不要驶入交叉口",
+                "继续驶入交叉路口，并等候交通畅通"
+            ],
+            "source": "https://driver-test.com/ca/exam/50"
+        },
+        {
+            "questionPK": "8i7btmx",
+            "question": "看后方车流的最重要的三个时间是：",
+            "answer": "倒车、变换车道或迅速减速之前时",
+            "questionImageUrl": null,
+            "choices": [
+                "倒车、急转弯或穿越交叉路口之前时",
+                "倒车、变换车道或迅速减速之前时",
+                "变换车道、穿越交叉路口或迅速减速之前时"
+            ],
+            "source": "https://driver-test.com/ca/exam/51"
+        },
+        {
+            "questionPK": "47z7t2m",
+            "question": "交通灯上出现指向右方的红箭头，表示您：",
+            "answer": "红箭头变成绿色之前，不能转入右边",
+            "questionImageUrl": null,
+            "choices": [
+                "可以在减速和观察车流后，转入右边",
+                "红箭头变成绿色之前，不能转入右边",
+                "完全停车后，再转入右边"
+            ],
+            "source": "https://driver-test.com/ca/exam/52"
+        },
+        {
+            "questionPK": "bf9g0b2",
+            "question": "拐弯时，您应该持续使用信号灯，因为：",
+            "answer": "让其他驾驶者知道您准备拐弯",
+            "questionImageUrl": null,
+            "choices": [
+                "在完成转弯动作前，关掉信号灯是违法的",
+                "让其他驾驶者知道您准备拐弯",
+                "完成拐弯动作之前，关掉信号灯总是不安全的"
+            ],
+            "source": "https://driver-test.com/ca/exam/53"
+        },
+        {
+            "questionPK": "zbo9cl8",
+            "question": "您與您左邊的駕駛者同時到達交叉路口，應該",
+            "answer": "你先走",
+            "questionImageUrl": null,
+            "choices": [
+                "你先走",
+                "你左邊的駕駛者先走",
+                "誰先發出轉彎訊號誰先走"
+            ],
+            "source": "https://driver-test.com/ca/exam/54"
+        },
+        {
+            "questionPK": "lfkcbuy",
+            "question": "您在車中載有打開蓋子的酒精容器時駕車是否合法？",
+            "answer": "是，如果該容器在車後背箱內",
+            "questionImageUrl": null,
+            "choices": [
+                "否，一律不合法",
+                "是，如果該容器在車後背箱內",
+                "是，如果該容器在車後座"
+            ],
+            "source": "https://driver-test.com/ca/exam/55"
+        },
+        {
+            "questionPK": "belqs1m",
+            "question": "您正駛向一個十字路口，發現交通訊號燈出了故障。您應該怎麼辦？",
+            "answer": "停車，然後安全時繼續行駛",
+            "questionImageUrl": null,
+            "choices": [
+                "停車，然後安全時繼續行駛",
+                "減速，如有必要就停車",
+                "如果有其他車輛在場才停車"
+            ],
+            "source": "https://driver-test.com/ca/exam/56"
+        },
+        {
+            "questionPK": "9uql67o",
+            "question": "一輛大卡車在一條三車道公路的中間車道行駛。您打算超越大卡車。最好的超車方法是：",
+            "answer": "從左側快速超車，然後切入到大卡車前方",
+            "questionImageUrl": null,
+            "choices": [
+                "從左側快速超車，然後切入到大卡車前方",
+                "從左側緩慢超車，然後切入到大卡車前方",
+                "從右側很快超車，然後切入到大卡車前方"
+            ],
+            "source": "https://driver-test.com/ca/exam/57"
+        },
+        {
+            "questionPK": "m2drdmt",
+            "question": "如果您的車將從後方遭到撞擊，您應當：",
+            "answer": "準備好在撞車後剎車",
+            "questionImageUrl": null,
+            "choices": [
+                "準備好在撞車後剎車",
+                "踩住剎車不放",
+                "掛上空檔，關掉發動機"
+            ],
+            "source": "https://driver-test.com/ca/exam/58"
+        },
+        {
+            "questionPK": "y3ph8vb",
+            "question": "在夜間駕駛時：",
+            "answer": "在合法與安全的任何情況下使用遠光燈",
+            "questionImageUrl": null,
+            "choices": [
+                "盡可能不要使用遠光燈",
+                "僅在沒有照明的街道使用遠光燈",
+                "在合法與安全的任何情況下使用遠光燈"
+            ],
+            "source": "https://driver-test.com/ca/exam/59"
+        },
+        {
+            "questionPK": "b0ifqn2",
+            "question": "有關死角的以下那一種說法是正確的？",
+            "answer": "換左線時向左邊回頭看，換右線時向右邊回頭看",
+            "questionImageUrl": null,
+            "choices": [
+                "無論換左線還是右線都只需要向右邊回頭看",
+                "換左線時向左邊回頭看，換右線時向右邊回頭看",
+                "車外配備兩面鏡子的車輛沒有死角"
+            ],
+            "source": "https://driver-test.com/ca/exam/60"
+        },
+        {
+            "questionPK": "2va0bs6",
+            "question": "下列有關飲用酒精和駕駛的陳述中，哪一項是正確的？",
+            "answer": "酒精會影響安全駕駛所需的您的判斷力和自制力",
+            "questionImageUrl": null,
+            "choices": [
+                "如果您酒後可以直線行走，就可以安全駕車",
+                "如果您血液中酒精濃度在法律規定限定之下，不會影響駕駛",
+                "酒精會影響安全駕駛所需的您的判斷力和自制力"
+            ],
+            "source": "https://driver-test.com/ca/exam/61"
+        },
+        {
+            "questionPK": "bmvsm4v",
+            "question": "您從一個彎曲下坡的坡道駛高速公路。你應當：",
+            "answer": "在進入轉彎處之前應將車速減至安全的速度",
+            "questionImageUrl": null,
+            "choices": [
+                "在進入轉彎處之前應將車速減至安全的速度",
+                "將車速減至交通標誌所顯示的高速公路限速",
+                "等您進入彎道之後開始剎車"
+            ],
+            "source": "https://driver-test.com/ca/exam/62"
+        },
+        {
+            "questionPK": "gdmdqu6",
+            "question": "你正在駕車，左面有迎面而來的車輛，右邊停著一排車。此時您應該調整方向：",
+            "answer": "在迎面而來的車和停泊的車之間居中行駛",
+            "questionImageUrl": null,
+            "choices": [
+                "使得您與迎面而來的車輛之間的距離小於您與停泊車輛之間的距離",
+                "使得您與停泊車輛之間的距離小於您與迎面而來的車輛之間的距離",
+                "在迎面而來的車和停泊的車之間居中行駛"
+            ],
+            "source": "https://driver-test.com/ca/exam/63"
+        },
+        {
+            "questionPK": "yraxxpm",
+            "question": "你幾乎要通過交叉路口時，才意識到應左拐而不是向前。現在，你應該如何做？",
+            "answer": "繼續行駛至下一個交叉路口，然後找到一條返回路線",
+            "questionImageUrl": null,
+            "choices": [
+                "停在交叉路口，等至安全時左拐",
+                "繼續行駛至下一個交叉路口，然後找到一條返回路線",
+                "倒車，觀察是否有其它輛轉，然後左拐"
+            ],
+            "source": "https://driver-test.com/ca/exam/64"
+        },
+        {
+            "questionPK": "gdpvajz",
+            "question": "這個信號的意思是：",
+            "answer": "單行道車流靠右行駛",
+            "questionImageUrl": "https://driver-test.comhttps://driver-test.com/./pics/CA/lnk3bwpr.png",
+            "choices": [
+                "單行道車流靠右行駛",
+                "單車道靠右行駛",
+                "所有車輛必須在前方右轉"
+            ],
+            "source": "https://driver-test.com/ca/exam/65"
+        },
+        {
+            "questionPK": "bs33r05",
+            "question": "你在一條左轉車道之上看到一個信號說：「左轉在綠燈亮時讓行。」這一信號的是什麽意思？",
+            "answer": "您可在綠燈亮起並且安全時左轉",
+            "questionImageUrl": "https://driver-test.comhttps://driver-test.com/./pics/CA/dEQ4bgkM.jpg",
+            "choices": [
+                "您只能在綠燈亮時左轉",
+                "您可在綠燈亮起並且安全時左轉",
+                "您必須等到信號燈全綠時左轉"
+            ],
+            "source": "https://driver-test.com/ca/exam/66"
+        },
+        {
+            "questionPK": "k9yhllo",
+            "question": "一個橘色信號顯示「前方修築路」意思是：",
+            "answer": "前方修築道路",
+            "questionImageUrl": "https://driver-test.comhttps://driver-test.com/./pics/CA/6npLMnk8.jpg",
+            "choices": [
+                "前方修築道路",
+                "前方有一條車道關閉",
+                "前方需要繞路"
+            ],
+            "source": "https://driver-test.com/ca/exam/67"
+        },
+        {
+            "questionPK": "g52ctc3",
+            "question": "這個信號表示：",
+            "answer": "禁止超越其他車輛，無論出於何種原因",
+            "questionImageUrl": "https://driver-test.comhttps://driver-test.com/./pics/CA/ngpKwEpw.png",
+            "choices": [
+                "除非看見對面有來車，否則不要超車",
+                "除非超車時不會發生危險，否則不要超越",
+                "禁止超越其他車輛，無論出於何種原因"
+            ],
+            "source": "https://driver-test.com/ca/exam/68"
+        },
+        {
+            "questionPK": "oamwfpu",
+            "question": "在发生下列哪种情况时，您必须在5天内通知DMV：",
+            "answer": "出售或转让您的汽车",
+            "questionImageUrl": null,
+            "choices": [
+                "出售或转让您的汽车",
+                "将汽车漆成其他颜色",
+                "因违反交通规则而被传唤到庭"
+            ],
+            "source": "https://driver-test.com/ca/exam/69"
+        },
+        {
+            "questionPK": "oaohfs4",
+            "question": "您想倒车退出停车位，您应一直保持慢速倒车并且：",
+            "answer": "在倒车的过程中回头察看右侧和左侧的情况",
+            "questionImageUrl": null,
+            "choices": [
+                "在倒车的过程中察看后视镜",
+                "在倒车的过程中察看车侧后视镜",
+                "在倒车的过程中回头察看右侧和左侧的情况"
+            ],
+            "source": "https://driver-test.com/ca/exam/70"
+        },
+        {
+            "questionPK": "jwdwsq5",
+            "question": "当车内有未满18岁的乘客时，吸烟的行为是：",
+            "answer": "在任何时候都不合法",
+            "questionImageUrl": null,
+            "choices": [
+                "合法的，如果此人是您的子女",
+                "在任何时候都不合法",
+                "不受法律限制"
+            ],
+            "source": "https://driver-test.com/ca/exam/71"
+        },
+        {
+            "questionPK": "9hl9h9n",
+            "question": "在下列哪种情况下将六岁或以下的儿童留在机动车内属于合法行为",
+            "answer": "如有年满12岁或以上的人士照看儿童",
+            "questionImageUrl": null,
+            "choices": [
+                "将钥匙留在点火器上",
+                "如有年满12岁或以上的人士照看儿童",
+                "当天气状况对儿童的健康或安全不构成威胁时"
+            ],
+            "source": "https://driver-test.com/ca/exam/72"
+        },
+        {
+            "questionPK": "ble1vu0",
+            "question": "驾驶速度低于车流速度可能会：",
+            "answer": "增加发生碰撞的可能性",
+            "questionImageUrl": null,
+            "choices": [
+                "降低发生碰撞的可能性",
+                "增加发生碰撞的可能性",
+                "不会影响发生碰撞的可能性"
+            ],
+            "source": "https://driver-test.com/ca/exam/73"
+        },
+        {
+            "questionPK": "s2hifdm",
+            "question": "您驶近交叉路口，红色交通灯正在闪烁，您应该：",
+            "answer": "在驶入交叉路口前停车，在安全的情况下继续前进",
+            "questionImageUrl": null,
+            "choices": [
+                "继续小心地驶过交叉路口",
+                "在驶入交叉路口前停车，在安全的情况下继续前进",
+                "在驶入交叉路口前停车，等到绿灯亮起时继续前进"
+            ],
+            "source": "https://driver-test.com/ca/exam/74"
+        },
+        {
+            "questionPK": "66f21qd",
+            "question": "当汽车停在多条轨道的铁道前面时，下列哪种情况下可以穿越铁道：",
+            "answer": "仅当您能够看清两边方向的情况下",
+            "questionImageUrl": null,
+            "choices": [
+                "仅当您能够看清两边方向的情况下",
+                "在火车刚刚经过您所在的车道后",
+                "仅当其他车辆开始穿越铁道时"
+            ],
+            "source": "https://driver-test.com/ca/exam/75"
+        },
+        {
+            "questionPK": "rlvplw8",
+            "question": "下列哪项有关摩托车驾驶员和机动车驾驶员的表述是正确的？",
+            "answer": "摩托车驾驶员与其它机动车驾驶员享有同等的权利和责任",
+            "questionImageUrl": null,
+            "choices": [
+                "在交通拥堵的路况中，摩托车驾驶员不得以高于其它车辆的速度前进",
+                "摩托车驾驶员与其它机动车驾驶员享有同等的权利和责任",
+                "摩托车体积比其它机动车小，有高于其它车辆的道路使用权"
+            ],
+            "source": "https://driver-test.com/ca/exam/76"
+        },
+        {
+            "questionPK": "vwagfv1",
+            "question": "两组双黄实线之间至少有两英尺的距离会被视作障碍区，以下表述哪一个正确：",
+            "answer": "切勿在该障碍区行驶或穿越该障碍区",
+            "questionImageUrl": null,
+            "choices": [
+                "切勿在该障碍区行驶或穿越该障碍区",
+                "可以在该障碍区左转或掉头行驶",
+                "可以在该障碍区左转，但不可以掉头"
+            ],
+            "source": "https://driver-test.com/ca/exam/77"
+        },
+        {
+            "questionPK": "1h59uzw",
+            "question": "在晚间使用远光灯的做法",
+            "answer": "只要合法并且安全就可以",
+            "questionImageUrl": null,
+            "choices": [
+                "应该尽量避免使用远光灯",
+                "仅限于没有灯光的街道上",
+                "只要合法并且安全就可以"
+            ],
+            "source": "https://driver-test.com/ca/exam/78"
+        },
+        {
+            "questionPK": "t1od3ev",
+            "question": "不得穿越车道中央的双黄实线以进行",
+            "answer": "超车",
+            "questionImageUrl": null,
+            "choices": [
+                "超车",
+                "左转",
+                "驶入私人车道"
+            ],
+            "source": "https://driver-test.com/ca/exam/79"
+        },
+        {
+            "questionPK": "kmh0dko",
+            "question": "一辆校车在您这一侧车道的前方停下并闪烁红灯，您应该：",
+            "answer": "在红灯闪烁期间一直保持停车",
+            "questionImageUrl": null,
+            "choices": [
+                "首先停车，然后在您认为安全的时候继续前进",
+                "在红灯闪烁期间一直保持停车",
+                "保持停车，直至所有儿童穿过您所在的车道"
+            ],
+            "source": "https://driver-test.com/ca/exam/80"
+        },
+        {
+            "questionPK": "rug0ngy",
+            "question": "通常在下列哪种情况下，您应该更加小心的驾驶：",
+            "answer": "在学校和游乐场附近，以及住宅区内行驶时",
+            "questionImageUrl": null,
+            "choices": [
+                "在学校和游乐场附近，以及住宅区内行驶时",
+                "在高速公路上超越大型卡车时",
+                "想观看受管制的事故现场时"
+            ],
+            "source": "https://driver-test.com/ca/exam/81"
+        },
+        {
+            "questionPK": "l4b6jl5",
+            "question": "您在变换车道或汇入其它车道时：",
+            "answer": "需要跟其它车辆保持至少4秒钟的车距",
+            "questionImageUrl": null,
+            "choices": [
+                "拥有先行权",
+                "应该先停车并察看来往的车辆",
+                "需要跟其它车辆保持至少4秒钟的车距"
+            ],
+            "source": "https://driver-test.com/ca/exam/82"
+        }
+    ]
+}
