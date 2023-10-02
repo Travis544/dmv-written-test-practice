@@ -15,6 +15,9 @@ import RadioGroup from '@mui/material/RadioGroup';
 import CardHeader from '@mui/material/CardHeader';
 import Box from '@mui/material/Box';
 import Modal from '@mui/material/Modal';
+import CheckIcon from '@mui/icons-material/Check';
+import CloseIcon from '@mui/icons-material/Close';
+
 const modalStyle = {
     position: 'absolute',
     top: '50%',
@@ -46,9 +49,12 @@ export default function Question({questionObj, onNextQuestion, onPrevQuestion, o
        
     }
 
+    const determineIsCorrectAnswer = (choice) => {
+        return selectedChoice === choice && choice === questionObj.answer
+     }
+
     const determineColor = (choice) => {
-        let chosenColor = selectedChoice === choice && choice === questionObj.answer ?  "success" :"error" 
-       
+        let chosenColor = determineIsCorrectAnswer(choice) ?  "success" :"error" 
         return chosenColor
     }
 
@@ -111,13 +117,25 @@ export default function Question({questionObj, onNextQuestion, onPrevQuestion, o
                         {
                             questionObj.choices.map((choice, index)=>{
                                 return (
-                                <FormControlLabel 
-                                    key={choice} value={choice} control={<Radio 
-                                    // sx={{color:
-                                    //   determineColor(choice)  }}
-                                    color = {determineColor(choice)}/>} 
-                                    label={choice} 
-                                />
+                                    <div className = "choice">
+                                        <FormControlLabel 
+                                            key={choice} value={choice} control={
+                                           
+                                            <Radio 
+                                            // sx={{color:
+                                            //   determineColor(choice)  }}
+                                            color = {determineColor(choice)}/>
+                                        } 
+                                            label={choice} 
+                                        />
+
+                                        <div className ="iconContainer">
+                                            {determineIsCorrectAnswer(choice)? 
+                                            <CheckIcon sx={{backgroundColor: "green"}}/> : 
+                                            selectedChoice === choice? 
+                                            <CloseIcon sx={{backgroundColor: "red"}}/> : null}
+                                        </div>    
+                                    </div>
                                 )
                             })
                         }
