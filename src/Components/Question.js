@@ -69,6 +69,7 @@ export default function Question({questionObj, onNextQuestion, onPrevQuestion, o
         }
 
         onJump(questionJump)
+        setSelectedChoice("")
         setOpen(false)
     }
 
