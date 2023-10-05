@@ -34,19 +34,7 @@ function App() {
 
 
   React.useEffect(()=>{
-    const firebaseConfig = {
-      apiKey: "AIzaSyCBmwvkrEJ4ybrnMYz-uaNxmpnAw13GyKs",
-      authDomain: "driving-test-practice-715f0.firebaseapp.com",
-      projectId: "driving-test-practice-715f0",
-      storageBucket: "driving-test-practice-715f0.appspot.com",
-      messagingSenderId: "101514954211",
-      appId: "1:101514954211:web:0f24351755b80622e6ccd6",
-      measurementId: "G-566JYX4GBW"
-    };
     
-    // Initialize Firebase
-    const app = initializeApp(firebaseConfig);
-    // const analytics = getAnalytics(app);
     
     // const db = getFirestore(app);
     // const getQuestions =() => {
