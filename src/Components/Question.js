@@ -146,7 +146,8 @@ export default function Question({questionObj, onNextQuestion, onPrevQuestion, o
                 <CardActions sx={{display:"flex", justifyContent:"center"}}>
                     <Button  
                         onClick={() => {
-                        onPrevQuestion()
+                            setSelectedChoice("")
+                            onPrevQuestion()
                         }} 
                         variant="outlined">
                             上一题
@@ -164,7 +165,8 @@ export default function Question({questionObj, onNextQuestion, onPrevQuestion, o
 
                     <Button 
                         onClick={() => {
-                        onNextQuestion()
+                            setSelectedChoice("")
+                            onNextQuestion()
                         }} 
                         variant="outlined">
                             下一题
