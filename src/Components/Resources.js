@@ -23,13 +23,13 @@ export default function Resources()  {
                         相关资源
                     </Typography>
                         <li> 
-                            <Link href="https://www.dmv.ca.gov/portal/uploads/2020/06/dl600.pdf">
+                            <Link href="https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/">
                                 加州DMV官方驾驶手册英文版 (PDF)
                             </Link>
                         </li>
 
                         <li> 
-                            <Link href="https://www.dmv.ca.gov/portal/uploads/2020/11/dl600c.pdf" >
+                            <Link href="https://www.dmv.ca.gov/portal/file/california-driver-handbook-chinese-pdf/" >
                                 加州DMV官方驾驶手册中文版 (PDF)
                             </Link>
                         </li>
